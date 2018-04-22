@@ -1,8 +1,9 @@
 import React from 'react';
 import PropTypes from 'prop-types';
+import Parser from 'html-react-parser';
 
 export const HTMLContent = ({ content, className }) => (
-  <div className={className} dangerouslySetInnerHTML={{ __html: content }} />
+  <div className={className}>{Parser(content)}</div>
 );
 
 const Content = ({ content, className }) => (
