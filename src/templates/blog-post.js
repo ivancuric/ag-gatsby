@@ -1,6 +1,6 @@
 import React from 'react';
 import Helmet from 'react-helmet';
-import Content, { HTMLContent } from '../components/Content';
+import { HTMLContent, Content } from '../components/Content';
 
 export const BlogPostTemplate = ({
   content,

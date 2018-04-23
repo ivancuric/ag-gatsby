@@ -1,5 +1,5 @@
 import React from 'react';
-import Content, { HTMLContent } from '../components/Content';
+import { HTMLContent, Content } from '../components/Content';
 
 export const AboutPageTemplate = ({ title, content, contentComponent }) => {
   const PageContent = contentComponent || Content;
