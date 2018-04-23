@@ -1,20 +1,16 @@
 import React from 'react';
-import PropTypes from 'prop-types';
 import Helmet from 'react-helmet';
 
 import Navbar from '../components/Navbar';
 import './all.sass';
 
-const TemplateWrapper = ({ children }) => (
-  <div>
-    <Helmet title="Ars Gladiatoria" />
-    <Navbar />
-    <div>{children()}</div>
-  </div>
-);
-
-TemplateWrapper.propTypes = {
-  children: PropTypes.func,
+export default ({ children }) => {
+  console.log(children);
+  return (
+    <div>
+      <Helmet title="Ars Gladiatoria" />
+      <Navbar />
+      <div>{children()}</div>
+    </div>
+  );
 };
-
-export default TemplateWrapper;

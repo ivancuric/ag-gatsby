@@ -1,5 +1,4 @@
 import React from 'react';
-import PropTypes from 'prop-types';
 import Helmet from 'react-helmet';
 import Content, { HTMLContent } from '../components/Content';
 
@@ -30,14 +29,6 @@ export const BlogPostTemplate = ({
   );
 };
 
-BlogPostTemplate.propTypes = {
-  content: PropTypes.string.isRequired,
-  contentComponent: PropTypes.func,
-  description: PropTypes.string,
-  title: PropTypes.string,
-  helmet: PropTypes.instanceOf(Helmet),
-};
-
 const BlogPost = ({ data }) => {
   const { markdownRemark: post } = data;
 
@@ -50,12 +41,6 @@ const BlogPost = ({ data }) => {
       title={post.frontmatter.title}
     />
   );
-};
-
-BlogPost.propTypes = {
-  data: PropTypes.shape({
-    markdownRemark: PropTypes.object,
-  }),
 };
 
 export default BlogPost;
