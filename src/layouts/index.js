@@ -9,10 +9,10 @@ import Navbar from '../components/Navbar';
 
 export default ({ children }) => {
   return (
-    <div>
+    <React.Fragment>
       <Helmet title="Ars Gladiatoria" />
       <Navbar />
-      <div>{children()}</div>
-    </div>
+      <main>{children()}</main>
+    </React.Fragment>
   );
 };
