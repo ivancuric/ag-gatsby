@@ -3,6 +3,7 @@ module.exports = {
     title: 'Ars Gladiatoria',
   },
   plugins: [
+    'gatsby-plugin-react-next',
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-sass',
     'gatsby-plugin-emotion',

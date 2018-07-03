@@ -1,18 +1,18 @@
 import React from 'react';
 import Helmet from 'react-helmet';
+
 import { injectGlobal } from 'emotion';
 import sanitize from 'sanitize.css';
+import Navbar from '../components/Navbar';
 
 injectGlobal(sanitize);
 
-import Navbar from '../components/Navbar';
-
-export default ({ children }) => {
+export default props => {
   return (
     <React.Fragment>
       <Helmet title="Ars Gladiatoria" />
       <Navbar />
-      <main>{children()}</main>
+      <main>{props.children()}</main>
     </React.Fragment>
   );
 };

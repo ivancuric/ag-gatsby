@@ -1,39 +1,22 @@
 import React from 'react';
 import Helmet from 'react-helmet';
-import { HTMLContent, Content } from '../components/Content';
+import HTMLParser from 'html-react-parser';
 
-export const BlogPostTemplate = ({
-  content,
-  contentComponent,
-  description,
-  title,
-  helmet,
-}) => {
-  const PostContent = contentComponent || Content;
+const BlogPost = props => {
+  const post = props.data.markdownRemark;
+  const title = post.frontmatter.title;
+  const content = post.html;
+  const description = post.frontmatter.description;
 
   return (
     <section>
-      {helmet || ''}
+      <Helmet title={`${title} | Blog`} />
       <div>
         <h1>{title}</h1>
         <p>{description}</p>
-        <PostContent content={content} />
+        {HTMLParser(content)}
       </div>
     </section>
-  );
-};
-
-const BlogPost = ({ data }) => {
-  const { markdownRemark: post } = data;
-
-  return (
-    <BlogPostTemplate
-      content={post.html}
-      contentComponent={HTMLContent}
-      description={post.frontmatter.description}
-      helmet={<Helmet title={`${post.frontmatter.title} | Blog`} />}
-      title={post.frontmatter.title}
-    />
   );
 };
 

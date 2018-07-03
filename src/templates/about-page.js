@@ -1,30 +1,19 @@
 import React from 'react';
-import { HTMLContent, Content } from '../components/Content';
+import HTMLParser from 'html-react-parser';
 
-export const AboutPageTemplate = ({ title, content, contentComponent }) => {
-  const PageContent = contentComponent || Content;
+const AboutPage = props => {
+  const post = props.data.markdownRemark;
+  const title = post.frontmatter.title;
+  const content = post.html;
 
   return (
     <section>
-      <div>
-        <h2>{title}</h2>
-        <PageContent content={content} />
-      </div>
+      <h2>{title}</h2>
+      {HTMLParser(content)}
     </section>
   );
 };
 
-const AboutPage = ({ data }) => {
-  const { markdownRemark: post } = data;
-
-  return (
-    <AboutPageTemplate
-      contentComponent={HTMLContent}
-      title={post.frontmatter.title}
-      content={post.html}
-    />
-  );
-};
 export default AboutPage;
 
 export const aboutPageQuery = graphql`
