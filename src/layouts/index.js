@@ -2,7 +2,7 @@ import React from 'react';
 import Helmet from 'react-helmet';
 
 import { injectGlobal } from 'emotion';
-import sanitize from 'sanitize.css';
+import sanitize from '!raw-loader!sanitize.css';
 import Navbar from '../components/Navbar';
 
 injectGlobal(sanitize);
