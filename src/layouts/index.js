@@ -1,11 +1,11 @@
 import React from 'react';
 import Helmet from 'react-helmet';
-// import { injectGlobal } from 'emotion';
-import normalize from 'normalize.css/normalize.css';
+import { injectGlobal } from 'emotion';
+import sanitize from 'sanitize.css';
+
+injectGlobal(sanitize);
 
 import Navbar from '../components/Navbar';
-
-console.log(normalize);
 
 export default ({ children }) => {
   return (
