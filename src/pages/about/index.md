@@ -6,7 +6,7 @@ title: Rules
 
 This document contains the rules and regulations for the HEMA tournament
 with longsword and one‑handed blades, called _Neyman Croatia_ _2018_
-(short form: _NeCro18_) that is scheduled for August 25th -- 26th 2018
+(short form: _NeCro18_) that is scheduled for August 25<sup>th</sup> – 26<sup>th</sup> 2018
 in Zagreb, Croatia, in the following text referred to as the Tournament.
 
 The Tournament is organized and hosted by _Ars Gladiatoria_ and
@@ -493,7 +493,7 @@ The setup protocol ends with the disqualification of one or both
 fighters or the placing of marking ribbons which signifies the
 successful gear check‑up of both fighters.
 
-The 1^st^ and 2^nd^ step can be omitted if the same staff remains in the
+The 1<sup>th</sup> and 2<sup>nd</sup> step can be omitted if the same staff remains in the
 same fighting area for the following match, as well.
 
 #### Bout protocol
@@ -619,7 +619,7 @@ match. The disqualification is explained later.
 The match's conclusion protocol triggers with one of the following
 actions:
 
-- a fighter has been awarded their fifth (5^th^) point;
+- a fighter has been awarded their fifth (5<sup>th</sup>) point;
 
 - one or both fighters have been disqualified;
 
@@ -738,8 +738,6 @@ A point can be awarded for the following hits:
   think the edge of the blade is placed on the target and pushed or
   pulled to cover enough of the target. If the target is an arm or a
   hand, the blade must cover most of the target.
-
-<!-- -->
 
 - High-quality stab. The stab is defined as valid when the
   adjudicators think the stab was made in the correct distance, and
@@ -934,7 +932,7 @@ The pommel must be smooth and have no studs.
 The flexibility of the blade is measured with a weight of one kilogram
 (1kg) which is attached to the point of the blade with the sword held on
 a firm ground. The allowed flexibility is from seven to fifteen percent
-(7 ‑ 15%), where the individual figures mean the ratio of the deviation
+(7–15%), where the individual figures mean the ratio of the deviation
 caused by the weight compared to the length of the blade in centimeters,
 multiplied by a hundred (100).
 
@@ -950,10 +948,10 @@ The point of the sword must be covered by a yellow tape for better
 visibility.
 
 The overall length of the sword must be within one hundred twenty to one
-hundred forty centimeters (120 ‑ 140cm).
+hundred forty centimeters (120–140cm).
 
 The weight of the sword must be between one thousand five hundred to one
-thousand eight hundred grams (1500 ‑ 1800g).
+thousand eight hundred grams (1500–1800g).
 
 ## One-handed blades rules
 
@@ -1014,8 +1012,6 @@ A point can be awarded for the following hits:
   think the edge of the blade is placed on the target and pushed or
   pulled to cover enough of the target. If the target is an arm or a
   forearm, the blade must cover most of the target.
-
-<!-- -->
 
 - High-quality stab. The stab is defined as valid when the
   adjudicators think the stab was made in the correct distance, and
@@ -1176,7 +1172,7 @@ or ruptured. The edges must be round and blunt.
 The flexibility of the blade is measured with a weight of one kilogram
 (1kg) which is attached to the point of the blade with the sword held on
 a firm ground. The allowed flexibility is from seven to fifteen percent
-(7 ‑ 15%), where the individual figures mean the ratio of the deviation
+(7–15%), where the individual figures mean the ratio of the deviation
 caused by the weight compared to the length of the blade in centimeters,
 multiplied by a hundred (100).
 
@@ -1192,7 +1188,7 @@ The point of the sword can be covered by a yellow tape for better
 visibility.
 
 The length of the blade must be within eighty‑five to a hundred
-centimeters (85 ‑ 100 cm).
+centimeters (85–100 cm).
 
 The weight of the weapon must be between seven hundred and fifty to one
-thousand grams (750 ‑ 1000g).
+thousand grams (750–1000g).
