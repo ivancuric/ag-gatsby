@@ -14,6 +14,7 @@ const BlogPost = props => {
       <div>
         <h1>{title}</h1>
         <p>{description}</p>
+        <p>{post.frontmatter.date}</p>
         {HTMLParser(content)}
       </div>
     </section>
@@ -28,7 +29,7 @@ export const pageQuery = graphql`
       id
       html
       frontmatter {
-        date(formatString: "MMMM DD, YYYY")
+        date(formatString: "DD MMMM YYYY", locale: "en")
         title
         description
       }
