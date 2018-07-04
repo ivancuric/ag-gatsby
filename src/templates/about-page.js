@@ -1,4 +1,5 @@
 import React from 'react';
+import Helmet from 'react-helmet';
 import HTMLParser from 'html-react-parser';
 
 const AboutPage = props => {
@@ -8,8 +9,9 @@ const AboutPage = props => {
 
   return (
     <section>
+      <Helmet title={`${title}`} />
       <h2>{title}</h2>
-      {HTMLParser(content)}
+      <div>{HTMLParser(content)}</div>
     </section>
   );
 };

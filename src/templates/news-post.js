@@ -13,9 +13,11 @@ const BlogPost = props => {
       <Helmet title={`${title} | Blog`} />
       <div>
         <h1>{title}</h1>
-        <p>{description}</p>
-        <p>{post.frontmatter.date}</p>
-        {HTMLParser(content)}
+        <div>
+          <p>{description}</p>
+          <div>{post.frontmatter.date}</div>
+        </div>
+        <div>{HTMLParser(content)}</div>
       </div>
     </section>
   );

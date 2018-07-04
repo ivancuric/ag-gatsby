@@ -45,11 +45,6 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
   });
 };
 
-// exports.modifyWebpackConfig = config => {
-//   console.log({ config });
-//   config.removeLoader('style');
-// };
-
 exports.onCreateNode = ({ node, boundActionCreators, getNode }) => {
   const { createNodeField } = boundActionCreators;
 
