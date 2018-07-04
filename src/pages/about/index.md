@@ -909,8 +909,8 @@ responsibility to have it.
 
 #### Weapon
 
-Only straight‑bladed, European‑type simulators are allowed in the
-Tournament. The so‑called _fechtschwerts_ or _fechtfeders_ are
+Only straight-bladed, European-type simulators are allowed in the
+Tournament. The so-called _fechtschwerts_ or _fechtfeders_ are
 preferred.
 
 A longsword must consist of a blade with two edges, a cross-guard, a
