@@ -1,6 +1,6 @@
 ---
 templateKey: about-page
-title: Rules
+title: Rules - demo page
 ---
 ## Introduction
 
