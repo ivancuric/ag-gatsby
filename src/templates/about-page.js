@@ -10,7 +10,7 @@ const AboutPage = props => {
   return (
     <section>
       <Helmet title={`${title}`} />
-      <h2>{title}</h2>
+      <h1>{title}</h1>
       <div>{HTMLParser(content)}</div>
     </section>
   );
