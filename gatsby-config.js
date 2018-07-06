@@ -5,7 +5,8 @@ module.exports = {
   plugins: [
     'gatsby-plugin-react-next',
     'gatsby-plugin-react-helmet',
-    'gatsby-plugin-emotion',
+    `gatsby-plugin-sass`,
+    // 'gatsby-plugin-emotion',
     {
       resolve: 'gatsby-source-filesystem',
       options: {

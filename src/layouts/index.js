@@ -1,11 +1,8 @@
 import React from 'react';
 import Helmet from 'react-helmet';
-
-import { injectGlobal } from 'emotion';
-import sanitize from '!raw-loader!sanitize.css';
+import '../styles/main.scss';
 import Navbar from '../components/Navbar';
 
-injectGlobal(sanitize);
 
 export default props => {
   return (
