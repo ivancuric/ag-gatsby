@@ -1,17 +1,17 @@
 import React from 'react';
 import Helmet from 'react-helmet';
-import HTMLParser from 'html-react-parser';
+import ModifyHeadings from '../components/ModifyHeadings';
 
 const AboutPage = props => {
   const post = props.data.markdownRemark;
   const title = post.frontmatter.title;
-  const content = post.html;
+  const content = post.htmlAst;
 
   return (
     <section>
       <Helmet title={`${title}`} />
       <h1>{title}</h1>
-      <div>{HTMLParser(content)}</div>
+      <ModifyHeadings>{content}</ModifyHeadings>
     </section>
   );
 };
@@ -21,7 +21,7 @@ export default AboutPage;
 export const aboutPageQuery = graphql`
   query AboutPage($id: String!) {
     markdownRemark(id: { eq: $id }) {
-      html
+      htmlAst
       frontmatter {
         title
       }

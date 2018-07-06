@@ -1,33 +1,22 @@
 import React from 'react';
-import Link from 'gatsby-link';
+import NewsArticle from '../components/NewsArticle';
 
 const indexPage = props => {
   const posts = props.data.allMarkdownRemark.edges;
 
   return (
-    <section>
-      <div>
-        <h1>Latest Stories</h1>
-        {posts.map(post => {
-          const node = post.node;
-
-          return (
-            <div key={node.id}>
-              <p>
-                <Link to={node.fields.slug}>{node.frontmatter.title}</Link>
-                <br />
-                <small>{node.frontmatter.date}</small>
-              </p>
-              <p>
-                {node.excerpt}
-                <br />
-                <Link to={node.fields.slug}>Keep Reading</Link>
-              </p>
-            </div>
-          );
+    <div className="container">
+      <header>
+        <h1>Neyman Fencing Tournament 2018</h1>
+        <p>25th and 26th of August 2018</p>
+      </header>
+      <section>
+        <h2>News</h2>
+        {posts.map(({ node }) => {
+          return <NewsArticle {...node} key={node.id} />;
         })}
-      </div>
-    </section>
+      </section>
+    </div>
   );
 };
 

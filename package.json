@@ -32,6 +32,7 @@
     "react": "^16.4.1",
     "react-emotion": "^9.2.4",
     "react-helmet": "^5.2.0",
+    "rehype-react": "^3.0.2",
     "sanitize.css": "^6.0.0",
     "stylelint": "^9.3.0",
     "stylelint-config-standard": "^18.2.0",
