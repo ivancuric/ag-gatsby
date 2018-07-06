@@ -1,8 +1,8 @@
 import React from 'react';
 import Helmet from 'react-helmet';
-import '../styles/main.scss';
+// import 'sanitize.css';
+// import '../styles/main.scss';
 import Navbar from '../components/Navbar';
-
 
 export default props => {
   return (
