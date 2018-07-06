@@ -2,7 +2,7 @@ import React from 'react';
 import Helmet from 'react-helmet';
 import ModifyHeadings from '../components/ModifyHeadings';
 
-const AboutPage = props => {
+const RulesPage = props => {
   const post = props.data.markdownRemark;
   const title = post.frontmatter.title;
   const content = post.htmlAst;
@@ -18,10 +18,10 @@ const AboutPage = props => {
   );
 };
 
-export default AboutPage;
+export default RulesPage;
 
-export const aboutPageQuery = graphql`
-  query AboutPage($id: String!) {
+export const rulesPageQuery = graphql`
+  query RulesPage($id: String!) {
     markdownRemark(id: { eq: $id }) {
       htmlAst
       frontmatter {
