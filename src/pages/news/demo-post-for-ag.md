@@ -8,6 +8,8 @@ And this is the content.
 
 ## Some demo characters:
 
+![Zgrada - smještaj](/img/sc-zgrada.jpg)
+
 "This is a quote"
 
 ... maybe ... I don't know
