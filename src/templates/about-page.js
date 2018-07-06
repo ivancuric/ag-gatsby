@@ -10,8 +10,10 @@ const AboutPage = props => {
   return (
     <section>
       <Helmet title={`${title}`} />
-      <h1>{title}</h1>
-      <ModifyHeadings>{content}</ModifyHeadings>
+      <div className="container">
+        <h1>{title}</h1>
+        <ModifyHeadings>{content}</ModifyHeadings>
+      </div>
     </section>
   );
 };
