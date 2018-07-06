@@ -4,8 +4,10 @@ title: Demo post for AG
 date: 2018-04-23T17:54:18.514Z
 description: This is the description
 ---
-And this is the content.\
-Some demo characters:\
+And this is the content.
+
+## Some demo characters:
+
 "This is a quote"
 
 ... maybe ... I don't know
