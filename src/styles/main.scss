@@ -1,5 +1,3 @@
-// @import '~sanitize.css/sanitize';
-
 body {
   font-family: sans-serif;
   line-height: 1.5;
@@ -11,4 +9,9 @@ body {
   padding-right: 24px;
   margin-left: auto;
   margin-right: auto;
+}
+
+img {
+  max-width: 100%;
+  display: block;
 }
