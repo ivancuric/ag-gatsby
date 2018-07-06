@@ -2,11 +2,11 @@
 templateKey: about-page
 title: Rules - demo page
 ---
-## Introduction
+# Introduction
 
 This document contains the rules and regulations for the HEMA tournament
 with longsword and one‑handed blades, called _Neyman Croatia_ _2018_
-(short form: _NeCro18_) that is scheduled for August 25<sup>th</sup> – 26<sup>th</sup> 2018
+(short form: _NeCro18_) that is scheduled for August 25th -- 26th 2018
 in Zagreb, Croatia, in the following text referred to as the Tournament.
 
 The Tournament is organized and hosted by _Ars Gladiatoria_ and
@@ -15,7 +15,7 @@ _Academia artis dimicatoriae_.
 The organizer has the right to update this document before the start of
 the Tournament.
 
-### Disclaimer
+## Disclaimer
 
 The rules have been made with the safety of all tournament contestants
 in mind. Any behavior that is deemed unsafe or can cause damage to
@@ -25,18 +25,18 @@ hitting the opponent with the pommel or cross guard, or in the case of
 kicks and hits. All contestants must use reasonable force. The use of
 excessive force will be grounds for penalty or disqualification.
 
-## Terminology
+# Terminology
 
 This chapter describes the terminology used in the Tournament.
 
 Some of the terms are used before they are defined, referencing the
 terms in the following paragraphs.
 
-### Venue
+## Venue
 
 The venue is split into multiple sections, described below.
 
-#### Main desk
+### Main desk
 
 The main desk is the location where all the contestants of the
 Tournament need to sign in to participate in the Tournament, where the
@@ -46,7 +46,7 @@ later) bring Match reports (defined later) to.
 The sign in process (defined later) includes gear checkup, signing a
 waiver, and paying the entrance fee.
 
-#### Fighting area
+### Fighting area
 
 The fighting area is the defined space in which the rules of the match
 (defined later) apply.
@@ -72,9 +72,9 @@ the fighting area is left to the discretion of the fighting area's
 referee. This area can overlap between different fighting areas, if the
 referees of the respective fighting areas agree to it.
 
-### Contest terminology
+## Contest terminology
 
-#### Exchange
+### Exchange
 
 An exchange is a fight for points between two contestants of the
 Tournament that occurs in the ring and follows the rules for earning
@@ -83,7 +83,7 @@ points (explained later).
 The exchange begins when the contestants begin exchanging blows and
 techniques and ends when they separate.
 
-#### Bout
+### Bout
 
 A bout is a short period of intense fighting, in which one or more
 exchanges may take place.
@@ -94,7 +94,7 @@ appropriate signal (explained later).
 At the end of each bout, the referee may award a point, a warning, or a
 disqualification, in accordance with the rules (explained later).
 
-#### Match
+### Match
 
 A match is a series of bouts in which two contestants of the Tournament
 compete to score points.
@@ -109,7 +109,7 @@ the final point.
 
 The match is governed by a referee (explained later).
 
-#### Match report
+### Match report
 
 Each match's results need to be reported to the main desk. This report
 is done by using the Match report.
@@ -130,21 +130,21 @@ The Match report includes:
 
 The referee brings the Match report to the main desk after each match.
 
-### Roles
+## Roles
 
 There are many roles in the Tournament, described below.
 
 All members of a role must have a nameplate with their role and full
 name clearly stated on them.
 
-#### Staff roles
+### Staff roles
 
 Many of the roles described below are members of the staff and are
 sometimes referred to collectively as such.
 
 The staff roles are included in the organization of the Tournament.
 
-##### Organizing committee
+#### Organizing committee
 
 The organizing committee is the body which is responsible for organizing
 the Tournament and writing its rules and regulations.
@@ -165,7 +165,7 @@ The members of the organizing committee for the Tournament are:
 Other people were included in the organization, as well, but are not
 mentioned here by name.
 
-##### Official delegate
+#### Official delegate
 
 The official delegate runs the whole Tournament and operates from the
 main desk.
@@ -185,7 +185,7 @@ The official delegate's responsibilities are:
 
 The Tournament's official delegate is Sven Horvatić.
 
-##### Floor manager
+#### Floor manager
 
 The floor manager is positioned at the main desk and oversees the
 protocol of the Tournament.
@@ -210,7 +210,7 @@ The floor manager can have assistants to help with the responsibilities.
 
 The Tournament's floor manager is Monika Cerjak Mileusnić.
 
-##### Referee
+#### Referee
 
 The match is adjudicated by two adjudicators. The senior adjudicator is
 called a referee and is the main adjudicator for a given fighting area.
@@ -251,7 +251,7 @@ are:
 
 - bringing the Match report to the main desk.
 
-##### Judge
+#### Judge
 
 The match is adjudicated by two adjudicators. The junior adjudicator is
 called a judge and acts as the helping hand and another set of eyes of
@@ -306,7 +306,7 @@ The judge stays silent unless:
 
 - the referee of the fighting area asks the judge a question.
 
-##### Chrono
+#### Chrono
 
 The chrono is the person in charge of tracking the different time
 constraints of a match.
@@ -326,7 +326,7 @@ are:
 - giving a clear, loud warning to the referee, the judge, and the
   fighters when each penalty minute has passed.
 
-##### Marker
+#### Marker
 
 The marker is the person in charge of tracking the score of a match.
 
@@ -341,12 +341,12 @@ are:
   fighters (defined later) that a fighter has been awarded the final
   point required for the victory by points in the match.
 
-#### Non-staff roles
+### Non-staff roles
 
 The rest of the roles are not considered staff roles and are not
 included in the organization of the Tournament.
 
-##### Fighter
+#### Fighter
 
 All contestants of the Tournament that fight in the matches are known as
 fighters.
@@ -365,7 +365,7 @@ The fighter's responsibilities are:
 
 - respecting the staff decisions.
 
-##### Squire
+#### Squire
 
 A squire is a person who assists a specific fighter with donning and
 doffing their gear, helps them by bringing them food and water, gives
@@ -374,16 +374,16 @@ advice, and generally helps the fighter between the fights.
 The squires are not required to register or pay participation fee,
 unless they themselves are contestants.
 
-## Protocol
+# Protocol
 
-### Entering the Tournament
+## Entering the Tournament
 
 To participate in the Tournament, the contestants need to apply for the
 Tournament by using the appropriate online form by August 15, 2018 and
 complete the sign in process at the main desk at the start of the
 Tournament.
 
-#### Sign in process
+### Sign in process
 
 The contestant's sign in process consists of the following steps:
 
@@ -415,7 +415,7 @@ After the Tournament's match schedule is published, the official
 delegate will open the tournament, and the main desk will call the first
 fighters to their designated fighting areas.
 
-### Match
+## Match
 
 Each Tournament's match follows the protocol designed to keep everyone
 involved safe.
@@ -423,7 +423,7 @@ involved safe.
 The match protocol consists of three sections: the setup protocol, the
 bout protocol, and the conclusion protocol.
 
-#### Red and yellow fighters
+### Red and yellow fighters
 
 To clearly distinguish the fighters, the fighters are referred to as the
 red and the yellow fighter.
@@ -440,7 +440,7 @@ adjudicate.
 
 The marker has the scoresheet with the appropriate colors.
 
-#### Match setup protocol
+### Match setup protocol
 
 The match's setup protocol consists of the following steps:
 
@@ -493,10 +493,10 @@ The setup protocol ends with the disqualification of one or both
 fighters or the placing of marking ribbons which signifies the
 successful gear check‑up of both fighters.
 
-The 1<sup>th</sup> and 2<sup>nd</sup> step can be omitted if the same staff remains in the
+The 1^st^ and 2^nd^ step can be omitted if the same staff remains in the
 same fighting area for the following match, as well.
 
-#### Bout protocol
+### Bout protocol
 
 The match's bout protocol occurs after the setup protocol has been
 successfully completed. This protocol includes the exchanges in a bout
@@ -514,7 +514,7 @@ If the fighters stop with their exchanges during the bout, the referee
 can loudly announce _"Continue_", if the bout can continue without
 safety issues.
 
-##### Before the first bout
+#### Before the first bout
 
 The bout protocol before the first bout consists of the following steps:
 
@@ -550,7 +550,7 @@ each weapon category in the Tournament, the referee will announce the
 full names of the fighters, as well as the names of the associated
 organizations the fighters represent, starting with the red fighter.
 
-##### Before other bouts
+#### Before other bouts
 
 The bout protocol before the bouts other than the first consists of the
 following steps:
@@ -567,7 +567,7 @@ following steps:
 
 4.  The chrono resumes the match's timer.
 
-##### After the bout
+#### After the bout
 
 The protocol starts when the referee stops the bout by loudly announcing
 "_Stop_". If required for the safety reasons, the judge can also stop
@@ -614,12 +614,12 @@ continue to be used in the match, the referee gives the fighter three
 replacement piece in three minutes, the fighter is disqualified from the
 match. The disqualification is explained later.
 
-#### Match conclusion protocol
+### Match conclusion protocol
 
 The match's conclusion protocol triggers with one of the following
 actions:
 
-- a fighter has been awarded their fifth (5<sup>th</sup>) point;
+- a fighter has been awarded their fifth (5^th^) point;
 
 - one or both fighters have been disqualified;
 
@@ -658,7 +658,7 @@ The match's conclusion protocol consists of the following steps:
 10. If the match ended due to a disqualification, the referee must
     report that to the official delegate.
 
-##### Disqualification
+#### Disqualification
 
 Different scenario occurs if the match ended due to disqualification.
 
@@ -679,9 +679,9 @@ opponent wins with their current number of points.
 Disqualification from a match must be reported to the official delegate
 and can result in a disqualification from the Tournament.
 
-## Longsword rules
+# Longsword rules
 
-### Match length
+## Match length
 
 The match's length is limited by two factors: the timer and the number
 of points.
@@ -689,7 +689,7 @@ of points.
 The match ends when the timer runs out or a fighter reaches the
 appropriate number of points, whichever occurs first.
 
-#### Timer
+### Timer
 
 The match can finish when the timer supervised by the chrono of the
 fighting area runs out.
@@ -701,7 +701,7 @@ Most matches are three (3) minutes long. The matches that determine the
 winner and the first two runners‑up of each weapon category in the
 Tournament are five (5) minutes long.
 
-#### Number of points
+### Number of points
 
 The match can finish when a fighter reaches the appropriate number of
 points.
@@ -712,7 +712,7 @@ The number of points required to win most matches is five (5). The
 matches that determine the winner and the first two runners‑up of each
 weapon category in the Tournament require seven (7) points to win.
 
-### Earning points
+## Earning points
 
 Fighter earn points in bouts to win matches. Only a single point can be
 given per bout.
@@ -722,7 +722,7 @@ advantage in certain situations. This is sometimes referred to as _the
 right-of-way_ rule. The advantage can only be given to one fighter for
 each exchange.
 
-#### Valid hits
+### Valid hits
 
 Only hits to the upper body are considered valid. This includes the
 head, shoulders, chest, abdomen, arms, and hands.
@@ -739,6 +739,8 @@ A point can be awarded for the following hits:
   pulled to cover enough of the target. If the target is an arm or a
   hand, the blade must cover most of the target.
 
+<!-- -->
+
 - High-quality stab. The stab is defined as valid when the
   adjudicators think the stab was made in the correct distance, and
   the flex of the blade is visible, or the opponent is visibly pushed.
@@ -750,7 +752,7 @@ A point can be awarded for the following hits:
 
 - Forcing the opponent out of the ring.
 
-#### Invalid hits
+### Invalid hits
 
 Hits to the lower body or the back are considered invalid.
 
@@ -775,7 +777,7 @@ The following hits don't earn points:
 - Hitting each other in the same tempo is called a double hit, and no
   points are awarded.
 
-#### Exceptions
+### Exceptions
 
 The following are exceptions to the rules:
 
@@ -791,7 +793,7 @@ The following are exceptions to the rules:
   move from it, the attacked is given the advantage in the case of a
   double hit.
 
-#### Forbidden techniques
+### Forbidden techniques
 
 The use of the following forbidden techniques can result in the
 immediate disqualification from the match and the Tournament:
@@ -813,7 +815,7 @@ immediate disqualification from the match and the Tournament:
 
 - Throwing the sword as a projectile.
 
-### Adjudication
+## Adjudication
 
 The referee and the judge adjudicate after each bout.
 
@@ -834,7 +836,7 @@ may invite the judge for a brief discussion. If the referee doesn't
 agree with the judge's opinion, the referee has the ability to overrule
 the judge and award a point regardless.
 
-### Mandatory equipment
+## Mandatory equipment
 
 Competing in the Tournament is allowed only to those fighters who have
 the mandatory equipment and have passed the gear checkup at the sign in
@@ -854,7 +856,7 @@ proceedings.
 The staff has the right to forbid a piece or a set of equipment which
 doesn't comply with the prescribed norm.
 
-#### Head and neck protection
+### Head and neck protection
 
 An undamaged mask which complies with the International Fencing
 Federation (FIE) certification with the bib protection of one thousand
@@ -868,7 +870,7 @@ A neck protector with a thick layer protecting the larynx.
 No unprotected parts of the skin are visible if a fighter leans their
 head in every standard angle.
 
-#### Hands, arms and torso protection
+### Hands, arms and torso protection
 
 Only special HEMA fencing gloves, thick lacrosse gloves or hockey gloves
 are allowed. All of them are to be subjected to individual control. It
@@ -894,7 +896,7 @@ An additional fencing plastron is mandatory for female contestants. This
 will not be inspected by a judge before the match, but it is the
 fighter's responsibility to have it.
 
-#### Leg and groin protection
+### Leg and groin protection
 
 The hips must be protected with a fencing jacket or with padded pants.
 
@@ -907,10 +909,10 @@ A groin protector is mandatory for male contestants. This will not be
 inspected by a judge before the match, but it is the fighter's
 responsibility to have it.
 
-#### Weapon
+### Weapon
 
-Only straight-bladed, European-type simulators are allowed in the
-Tournament. The so-called _fechtschwerts_ or _fechtfeders_ are
+Only straight‑bladed, European‑type simulators are allowed in the
+Tournament. The so‑called _fechtschwerts_ or _fechtfeders_ are
 preferred.
 
 A longsword must consist of a blade with two edges, a cross-guard, a
@@ -932,7 +934,7 @@ The pommel must be smooth and have no studs.
 The flexibility of the blade is measured with a weight of one kilogram
 (1kg) which is attached to the point of the blade with the sword held on
 a firm ground. The allowed flexibility is from seven to fifteen percent
-(7–15%), where the individual figures mean the ratio of the deviation
+(7 ‑ 15%), where the individual figures mean the ratio of the deviation
 caused by the weight compared to the length of the blade in centimeters,
 multiplied by a hundred (100).
 
@@ -948,14 +950,14 @@ The point of the sword must be covered by a yellow tape for better
 visibility.
 
 The overall length of the sword must be within one hundred twenty to one
-hundred forty centimeters (120–140cm).
+hundred forty centimeters (120 ‑ 140cm).
 
 The weight of the sword must be between one thousand five hundred to one
-thousand eight hundred grams (1500–1800g).
+thousand eight hundred grams (1500 ‑ 1800g).
 
-## One-handed blades rules
+# One-handed blades rules
 
-### Match length
+## Match length
 
 The match's length is limited by two factors: the timer and the number
 of points.
@@ -963,7 +965,7 @@ of points.
 The match ends when the timer runs out or a fighter reaches the
 appropriate number of points, whichever occurs first.
 
-#### Timer
+### Timer
 
 The match can finish when the timer supervised by the chrono of the
 fighting area runs out.
@@ -975,7 +977,7 @@ Most matches are three (3) minutes long. The matches that determine the
 winner and the first two runners‑up of each weapon category in the
 Tournament are five (5) minutes long.
 
-#### Number of points
+### Number of points
 
 The match can finish when a fighter reaches the appropriate number of
 points.
@@ -986,7 +988,7 @@ The number of points required to win most matches is five (5). The
 matches that determine the winner and the first two runners‑up of each
 weapon category in the Tournament require seven (7) points to win.
 
-### Earning points
+## Earning points
 
 Fighter earn points in bouts to win matches. Only a single point can be
 given per bout.
@@ -996,7 +998,7 @@ advantage in certain situations. This is sometimes referred to as _the
 right-of-way_ rule. The advantage can only be given to one fighter for
 each exchange.
 
-#### Valid hits
+### Valid hits
 
 Only hits to the upper body are considered valid. This includes the
 head, shoulders, chest, abdomen, arms, and forearms.
@@ -1013,13 +1015,15 @@ A point can be awarded for the following hits:
   pulled to cover enough of the target. If the target is an arm or a
   forearm, the blade must cover most of the target.
 
+<!-- -->
+
 - High-quality stab. The stab is defined as valid when the
   adjudicators think the stab was made in the correct distance, and
   the flex of the blade is visible, or the opponent is visibly pushed.
 
 - Forcing the opponent out of the ring without any physical contact
 
-#### Invalid hits
+### Invalid hits
 
 Hits to the lower body or the back are considered invalid.
 
@@ -1044,7 +1048,7 @@ The following hits don't earn points:
 - Hitting each other in the same tempo is called a double hit, and no
   points are awarded.
 
-#### Exceptions
+### Exceptions
 
 The following are exceptions to the rules:
 
@@ -1058,7 +1062,7 @@ The following are exceptions to the rules:
   quality than his opponent's. A critical strike (to the head of the
   weapon arm) ranks higher than a regular strike.
 
-#### Forbidden techniques
+### Forbidden techniques
 
 The use of the following forbidden techniques can result in the
 immediate disqualification from the match and the Tournament:
@@ -1067,7 +1071,7 @@ immediate disqualification from the match and the Tournament:
 
 - Grabbing your opponent's weapon
 
-### Adjudication
+## Adjudication
 
 The referee and the judge adjudicate after each bout.
 
@@ -1088,7 +1092,7 @@ may invite the judge for a brief discussion. If the referee doesn't
 agree with the judge's opinion, the referee has the ability to overrule
 the judge and award a point regardless.
 
-### Mandatory equipment
+## Mandatory equipment
 
 Competing in the Tournament is allowed only to those fighters who have
 the mandatory equipment and have passed the gear checkup at the sign in
@@ -1108,7 +1112,7 @@ proceedings.
 The staff has the right to forbid a piece or a set of equipment which
 doesn't comply with the prescribed norm.
 
-#### Head and neck protection
+### Head and neck protection
 
 An undamaged mask which complies with the International Fencing
 Federation (FIE) certification with the bib protection of one thousand
@@ -1122,7 +1126,7 @@ A neck protector with a thick layer protecting the larynx.
 No unprotected parts of the skin are visible if a fighter leans their
 head in every standard angle.
 
-#### Hands, arms and torso protection
+### Hands, arms and torso protection
 
 Only special HEMA fencing gloves, thick lacrosse gloves or hockey gloves
 are allowed. All of them are to be subjected to individual control. It
@@ -1148,7 +1152,7 @@ An additional fencing plastron is mandatory for female contestants. This
 will not be inspected by a judge before the match, but it is the
 fighter's responsibility to have it.
 
-#### Leg and groin protection
+### Leg and groin protection
 
 The hips must be protected with a fencing jacket or with padded pants.
 
@@ -1158,7 +1162,7 @@ A groin protector is mandatory for male contestants. This will not be
 inspected by a judge before the match, but it is the fighter's
 responsibility to have it.
 
-#### Weapon
+### Weapon
 
 Only European‑type simulators are allowed in the Tournament. Sideswords
 and sabers will compete in the same category.
@@ -1172,7 +1176,7 @@ or ruptured. The edges must be round and blunt.
 The flexibility of the blade is measured with a weight of one kilogram
 (1kg) which is attached to the point of the blade with the sword held on
 a firm ground. The allowed flexibility is from seven to fifteen percent
-(7–15%), where the individual figures mean the ratio of the deviation
+(7 ‑ 15%), where the individual figures mean the ratio of the deviation
 caused by the weight compared to the length of the blade in centimeters,
 multiplied by a hundred (100).
 
@@ -1188,7 +1192,7 @@ The point of the sword can be covered by a yellow tape for better
 visibility.
 
 The length of the blade must be within eighty‑five to a hundred
-centimeters (85–100 cm).
+centimeters (85 ‑ 100 cm).
 
 The weight of the weapon must be between seven hundred and fifty to one
-thousand grams (750–1000g).
+thousand grams (750 ‑ 1000g).
