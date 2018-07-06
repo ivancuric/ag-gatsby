@@ -11,6 +11,16 @@ body {
   margin-right: auto;
 }
 
+.nav {
+  display: flex;
+
+  > a {
+    &:not(:first-of-type) {
+      margin-left: 14px;
+    }
+  }
+}
+
 img {
   max-width: 100%;
   display: block;

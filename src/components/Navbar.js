@@ -2,17 +2,15 @@ import React from 'react';
 import Link from 'gatsby-link';
 
 const Navbar = () => (
-  <nav>
-    <div>
-      <Link to="/">Homepage</Link>
+  <header>
+    <div className="container">
+      <nav className="nav">
+        <Link to="/">Homepage</Link>
+        <Link to="/rules">Rules</Link>
+        <Link to="/schedule">Schedule</Link>
+      </nav>
     </div>
-    <div>
-      <Link to="/rules">Rules</Link>
-    </div>
-    <div>
-      <Link to="/schedule">Schedule</Link>
-    </div>
-  </nav>
+  </header>
 );
 
 export default Navbar;
