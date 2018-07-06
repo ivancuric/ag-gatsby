@@ -6,10 +6,10 @@ const indexPage = props => {
 
   return (
     <div className="container">
-      <header>
+      <section>
         <h1>Neyman Fencing Tournament 2018</h1>
         <p>25th and 26th of August 2018</p>
-      </header>
+      </section>
       <section>
         <h2>News</h2>
         {posts.map(({ node }) => {

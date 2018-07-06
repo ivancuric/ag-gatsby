@@ -9,11 +9,8 @@ const NewsArticle = node => (
       </h3>
       <small>{node.frontmatter.date}</small>
     </header>
-    <p>
-      {node.excerpt}
-      <br />
-      <Link to={node.fields.slug}>Keep Reading</Link>
-    </p>
+    <p>{node.excerpt}</p>
+    <Link to={node.fields.slug}>Keep Reading</Link>
   </article>
 );
 

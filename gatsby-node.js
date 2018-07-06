@@ -2,14 +2,6 @@ const _ = require('lodash');
 const path = require('path');
 const { createFilePath } = require('gatsby-source-filesystem');
 
-// exports.modifyWebpackConfig = ({ config }) => {
-//   config.loader('css-literal-loader', {
-//     test: /\.js$/,
-//     loaders: ['css-literal-loader'],
-//     options: { extension: '.module.css' },
-//   });
-// };
-
 exports.createPages = ({ boundActionCreators, graphql }) => {
   const { createPage } = boundActionCreators;
 
