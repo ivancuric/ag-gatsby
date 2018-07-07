@@ -1,6 +1,6 @@
 import React from 'react';
 import Helmet from 'react-helmet';
-import ModifyHeadings from '../components/ModifyHeadings';
+import HeadingShifter from '../components/HeadingShifter';
 
 const RulesPage = props => {
   const post = props.data.markdownRemark;
@@ -9,10 +9,12 @@ const RulesPage = props => {
 
   return (
     <section>
-      <Helmet title={`${title}`} />
+      <Helmet title={title} />
       <div className="container">
         <h1>{title}</h1>
-        <ModifyHeadings>{content}</ModifyHeadings>
+        <div className="md">
+          <HeadingShifter shift="1">{content}</HeadingShifter>
+        </div>
       </div>
     </section>
   );

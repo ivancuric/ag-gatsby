@@ -1,5 +1,7 @@
 import React from 'react';
 import NewsArticle from '../components/NewsArticle';
+import Link from 'gatsby-link';
+// import neymanImg from '../img/neyman.png';
 
 const indexPage = props => {
   const posts = props.data.allMarkdownRemark.edges;
@@ -9,12 +11,26 @@ const indexPage = props => {
       <section>
         <h1>Neyman Fencing Tournament 2018</h1>
         <p>25th and 26th of August 2018</p>
+        <p>
+          First international longsword and one-handed sword open tournament in
+          Croatia held by Ars Gladiatoria Zagreb and Academia Artis Dimicatoriae
+        </p>
+        <Link to="/tickets">Get the ticket</Link>
       </section>
       <section>
         <h2>News</h2>
         {posts.map(({ node }) => {
           return <NewsArticle {...node} key={node.id} />;
         })}
+      </section>
+      <section>
+        <h2>Partners</h2>
+        {/* <img src={neymanImg} alt=""/> */}
+        <ul>
+          <li>Neyman Fencing</li>
+          <li>Arming Guild</li>
+          <li>Teximp 360° CNC solutions</li>
+        </ul>
       </section>
     </div>
   );
