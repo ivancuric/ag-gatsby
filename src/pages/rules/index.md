@@ -6,7 +6,7 @@ title: Rules
 
 This document contains the rules and regulations for the HEMA tournament
 with longsword and one‑handed blades, called _Neyman Croatia 2018_
-(short form: _NeCro18_) that is scheduled for August 25th--26th 2018
+(short form: _NeCro18_) that is scheduled for <no-br>August 25th--26th 2018</no-br>
 in Zagreb, Croatia, in the following text referred to as the Tournament.
 
 The Tournament is organized and hosted by _Ars Gladiatoria_ and
@@ -570,7 +570,7 @@ following steps:
 #### After the bout
 
 The protocol starts when the referee stops the bout by loudly announcing
-"_Stop_". If required for the safety reasons, the judge can also stop
+_"Stop"_. If required for the safety reasons, the judge can also stop
 the bout in the same manner.
 
 The chrono stops the match's timer when a referee or a judge stop the
@@ -932,28 +932,28 @@ used on cross‑guards and on the tip of the blade.
 The pommel must be smooth and have no studs.
 
 The flexibility of the blade is measured with a weight of one kilogram
-(1 kg) which is attached to the point of the blade with the sword held on
+<no-br>(1 kg)</no-br> which is attached to the point of the blade with the sword held on
 a firm ground. The allowed flexibility is from seven to fifteen percent
-(7--15%), where the individual figures mean the ratio of the deviation
+<no-br>(7--15 %)</no-br>, where the individual figures mean the ratio of the deviation
 caused by the weight compared to the length of the blade in centimeters,
 multiplied by a hundred (100).
 
-The minimum width of the point is one centimeter (1 cm).
+The minimum width of the point is one centimeter <no-br>(1 cm)</no-br>.
 
 The point of the blade must be either flared or rounded to prevent
 potential penetration.
 
 The point of balance of the sword cannot be more than nine centimeters
-(9 cm) away from the cross‑guard.
+<no-br>(9 cm)</no-br> away from the cross‑guard.
 
 The point of the sword must be covered by a yellow tape for better
 visibility.
 
 The overall length of the sword must be within one hundred twenty to one
-hundred forty centimeters (120‑-140 cm).
+hundred forty centimeters <no-br>(120‑-140 cm)</no-br>.
 
 The weight of the sword must be between one thousand five hundred to one
-thousand eight hundred grams (1500‑-1800 g).
+thousand eight hundred grams <no-br>(1500‑-1800 g)</no-br>.
 
 # One-handed blades rules
 
@@ -1174,9 +1174,9 @@ The blade must not bear signs of heavy damage, must not be bent, broken
 or ruptured. The edges must be round and blunt.
 
 The flexibility of the blade is measured with a weight of one kilogram
-(1 kg) which is attached to the point of the blade with the sword held on
+<no-br>(1 kg)</no-br> which is attached to the point of the blade with the sword held on
 a firm ground. The allowed flexibility is from seven to fifteen percent
-(7‑-15%), where the individual figures mean the ratio of the deviation
+<no-br>(7--15%)</no-br>, where the individual figures mean the ratio of the deviation
 caused by the weight compared to the length of the blade in centimeters,
 multiplied by a hundred (100).
 
@@ -1186,13 +1186,13 @@ The point of the blade must be either flared or rounded to prevent
 potential penetration.
 
 The point of balance of the sword cannot be more than fifteen
-centimeters (15 cm) away from the cross‑guard.
+centimeters <no-br>(15 cm)</no-br> away from the cross‑guard.
 
 The point of the sword can be covered by a yellow tape for better
 visibility.
 
 The length of the blade must be within eighty‑five to a hundred
-centimeters (85--100 cm).
+centimeters <no-br>(85--100 cm)</no-br>.
 
 The weight of the weapon must be between seven hundred and fifty to one
-thousand grams (750--1000 g).
+thousand grams <no-br>(750--1000 g)</no-br>.
