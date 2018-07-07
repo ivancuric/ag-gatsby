@@ -8,7 +8,7 @@ module.exports = {
   globals: {
     graphql: true,
   },
-  plugins: ['react'],
+  plugins: ['react', 'prettier'],
   parser: 'babel-eslint',
   parserOptions: {
     sourceType: 'module',
