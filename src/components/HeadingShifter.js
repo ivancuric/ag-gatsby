@@ -5,13 +5,10 @@ const HeadingShifter = props => {
   const shift = Number(props.shift || 0);
   const components = {};
 
+  const clamp = n => Math.min(6, Math.max(1, n));
+
   for (let i = 1; i < 7; i++) {
-    let shifted = i + shift;
-
-    if (shifted < 1) shifted = 1;
-    if (shifted > 6) shifted = 6;
-
-    components[`h${i}`] = `h${shifted}`;
+    components[`h${i}`] = `h${clamp(i + shift)}`;
   }
 
   const renderAst = new rehypeReact({
@@ -19,7 +16,7 @@ const HeadingShifter = props => {
     components,
   }).Compiler;
 
-  return <div className="md">{renderAst(props.htmlAst).props.children}</div>;
+  return renderAst(props.htmlAst).props.children;
 };
 
 export default HeadingShifter;

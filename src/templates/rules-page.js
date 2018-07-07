@@ -10,8 +10,10 @@ const RulesPage = props => {
     <section>
       <Helmet title={title} />
       <div className="container">
-        <h1>{title}</h1>
-        <HeadingShifter htmlAst={post.htmlAst} shift="1" />
+        <div className="md">
+          <h1>{title}</h1>
+          <HeadingShifter htmlAst={post.htmlAst} shift="1" />
+        </div>
       </div>
     </section>
   );
