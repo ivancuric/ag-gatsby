@@ -11,9 +11,7 @@ const RulesPage = props => {
       <Helmet title={title} />
       <div className="container">
         <h1>{title}</h1>
-        <div className="md">
-          <HeadingShifter htmlAst={post.htmlAst} shift="1" />
-        </div>
+        <HeadingShifter htmlAst={post.htmlAst} shift="1" />
       </div>
     </section>
   );
