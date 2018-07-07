@@ -21,9 +21,9 @@ const HeadingShifter = props => {
     components,
   }).Compiler;
 
-  const res = renderAst(props.children);
+  const result = renderAst(props.htmlAst);
 
-  return res.props.children;
+  return result.props.children;
 };
 
 export default HeadingShifter;

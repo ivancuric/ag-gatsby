@@ -5,7 +5,6 @@ import HeadingShifter from '../components/HeadingShifter';
 const RulesPage = props => {
   const post = props.data.markdownRemark;
   const title = post.frontmatter.title;
-  const content = post.htmlAst;
 
   return (
     <section>
@@ -13,7 +12,7 @@ const RulesPage = props => {
       <div className="container">
         <h1>{title}</h1>
         <div className="md">
-          <HeadingShifter shift="1">{content}</HeadingShifter>
+          <HeadingShifter htmlAst={post.htmlAst} shift="1" />
         </div>
       </div>
     </section>
