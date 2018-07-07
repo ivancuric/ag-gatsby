@@ -1180,7 +1180,7 @@ a firm ground. The allowed flexibility is from seven to fifteen percent
 caused by the weight compared to the length of the blade in centimeters,
 multiplied by a hundred (100).
 
-The minimum width of the point is one centimeter (1cm).
+The minimum width of the point is one centimeter (1 cm).
 
 The point of the blade must be either flared or rounded to prevent
 potential penetration.
