@@ -67,3 +67,30 @@ img {
   max-width: 100%;
   display: block;
 }
+
+.schedule-row {
+  display: flex;
+  border-top: 1px solid #eee;
+
+  &:last-of-type {
+    border-bottom: 1px solid #eee;
+  }
+
+  > div {
+    padding-top: 1em;
+    padding-bottom: 1em;
+    padding-left: 1em;
+    padding-right: 1em;
+
+    &:not(:first-of-type) {
+      flex-grow: 1;
+    }
+  }
+}
+
+.schedule-time {
+  border-right: 1px solid #eee;
+  white-space: nowrap;
+  flex-basis: 150px;
+  flex-shrink: 0;
+}
