@@ -7,7 +7,7 @@ import Navbar from '../components/Navbar';
 export default ({ children }) => {
   return (
     <React.Fragment>
-      <Helmet title="Ars Gladiatoria" />
+      <Helmet title="Neyman Fencing Tournament 2018" />
       <Navbar />
       <main>{children()}</main>
     </React.Fragment>
