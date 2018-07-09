@@ -7,8 +7,8 @@
 @import 'rt';
 
 .navbar {
-  padding-top: 1em;
-  padding-bottom: 1em;
+  // padding-top: 1em;
+  // padding-bottom: 1em;
 }
 
 .container {
@@ -25,13 +25,47 @@ no-br {
 
 .nav {
   display: flex;
+  padding-left: 1rem;
+  // padding-right: 1rem;
+  margin-left: auto;
+  margin-right: auto;
+  align-items: center;
+  white-space: nowrap;
 
   > a {
     display: block;
+    text-decoration: none;
 
     &:not(:first-of-type) {
       margin-left: 14px;
     }
+  }
+}
+
+.logo {
+  margin-right: 1em;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+.register-button {
+  margin-left: auto !important;
+  background: $red;
+  color: #fff;
+  text-decoration: none;
+  // text-transform: uppercase;
+  // -webkit-font-smoothing: antialiased;
+  // @include sans;
+  // font-weight: 600;
+  letter-spacing: 0.02em;
+  // line-height: 1;
+  padding: 1rem 2rem;
+  display: flex !important;
+  align-items: center;
+  align-self: stretch;
+
+  &:active {
+    color: #fff;
   }
 }
 
