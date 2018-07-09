@@ -35,21 +35,19 @@ no-br {
   > a {
     display: block;
     text-decoration: none;
-
-    &:not(:first-of-type) {
-      margin-left: 14px;
-    }
+    margin-right: 14px;
   }
 }
 
 .logo {
-  margin-right: 1em;
+  margin-right: 1em !important;
   margin-top: 1em;
   margin-bottom: 1em;
 }
 
 .register-button {
   margin-left: auto !important;
+  margin-right: 0 !important;
   background: $red;
   color: #fff;
   text-decoration: none;
@@ -82,13 +80,12 @@ no-br {
   }
 
   > div {
-    padding-top: 1em;
-    padding-bottom: 1em;
-    padding-left: 1em;
-    padding-right: 1em;
-
     &:not(:first-of-type) {
       flex-grow: 1;
+      padding-top: 1em;
+      padding-bottom: 1em;
+      padding-left: 1em;
+      padding-right: 1em;
     }
   }
 }
@@ -96,8 +93,11 @@ no-br {
 .schedule-time {
   border-right: 1px solid #dfe0e2;
   white-space: nowrap;
-  flex-basis: 10em;
+  width: 8em;
   flex-shrink: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .team-grid {
