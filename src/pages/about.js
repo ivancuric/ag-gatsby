@@ -80,10 +80,10 @@ const AboutPage = () => (
       </p>
       <p>Lunch is included in the entrance fee for the venue.</p>
       <p>
-        PLEASE TAKE NOTICE THAT IN ORDER TO COMPETE IN THE VENUE ALL
-        PARTICIPANTS MUST PAY BOTH THE ENTRANCE FEE AND THE ACCOMMODATIONS PRICE
-        FOR THE ENTIRE STAY DURING THE INITIAL SIGN UP THAT WILL TAKE PLACE
-        BEFORE THE TOURNAMENT STARTS.
+        Please take notice that in order to compete in the venue all
+        participants must pay both the entrance fee and the accommodations price
+        for the entire stay during the initial sign up that will take place
+        before the tournament starts.
       </p>
     </div>
   </section>
