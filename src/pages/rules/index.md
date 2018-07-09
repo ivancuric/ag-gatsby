@@ -120,13 +120,10 @@ each match and filled by the marker (defined later) and the referee
 
 The Match report includes:
 
-- the name of the referee;
-
-- the name of the judge (defined later);
-
-- the names of the fighters (defined later);
-
-- referee's signature.
+* the name of the referee;
+* the name of the judge (defined later);
+* the names of the fighters (defined later);
+* referee's signature.
 
 The referee brings the Match report to the main desk after each match.
 
@@ -151,15 +148,11 @@ the Tournament and writing its rules and regulations.
 
 The members of the organizing committee for the Tournament are:
 
-- Marko Štuhec, president of _Ars Gladiatoria_, Croatia
-
-- Sven Horvatić, CEO of _Ars Gladiatoria_, Croatia
-
-- Alen Lovrič, member of _Academia artis dimicatoriae_, Slovenia
-
-- Vatroslav Mileusnić, member of _Ars Gladiatoria_, Croatia
-
-- Xavier George Claude Fabiani, member of _Canne Klub Kamnik_,
+* Marko Štuhec, president of _Ars Gladiatoria_, Croatia
+* Sven Horvatić, CEO of _Ars Gladiatoria_, Croatia
+* Alen Lovrič, member of _Academia artis dimicatoriae_, Slovenia
+* Vatroslav Mileusnić, member of _Ars Gladiatoria_, Croatia
+* Xavier George Claude Fabiani, member of _Canne Klub Kamnik_,
   Slovenia
 
 Other people were included in the organization, as well, but are not
@@ -172,16 +165,12 @@ main desk.
 
 The official delegate's responsibilities are:
 
-- overseeing the contestant's sign in process, including the gear
+* overseeing the contestant's sign in process, including the gear
   checkup;
-
-- managing the Tournament's schedule;
-
-- providing rewards for the best Tournament contestants;
-
-- answering contestant's questions outside of the fighting areas;
-
-- disqualifying contestants from the Tournament.
+* managing the Tournament's schedule;
+* providing rewards for the best Tournament contestants;
+* answering contestant's questions outside of the fighting areas;
+* disqualifying contestants from the Tournament.
 
 The Tournament's official delegate is Sven Horvatić.
 
@@ -192,19 +181,14 @@ protocol of the Tournament.
 
 The floor manager's responsibilities are:
 
-- keeping the match schedule up to date;
-
-- seeing to the layout of the venue;
-
-- seeing that all necessary elements are fully functional prior to the
+* keeping the match schedule up to date;
+* seeing to the layout of the venue;
+* seeing that all necessary elements are fully functional prior to the
   competition;
-
-- preparing Match reports for each scheduled match;
-
-- receiving filled Match reports and entering the results into the
+* preparing Match reports for each scheduled match;
+* receiving filled Match reports and entering the results into the
   appropriate application;
-
-- announcing the contestants for the subsequent matches.
+* announcing the contestants for the subsequent matches.
 
 The floor manager can have assistants to help with the responsibilities.
 
@@ -227,29 +211,18 @@ and the end of each bout within a match.
 The referee's responsibilities during a match in the given fighting area
 are:
 
-- managing the staff and the fighters (defined later);
-
-- making sure the match runs smoothly;
-
-- keeping everyone involved in the match safe;
-
-- starting and ending the match;
-
-- starting and ending the bout;
-
-- calling in the judge for a consultation, if required;
-
-- awarding points to the fighters in the match;
-
-- giving warnings to the fighters in the match;
-
-- giving penalties to the fighters in the match;
-
-- raising the winner's hand at the end of the match;
-
-- reviewing and signing the Match report;
-
-- bringing the Match report to the main desk.
+* managing the staff and the fighters (defined later);
+* making sure the match runs smoothly;
+* keeping everyone involved in the match safe;
+* starting and ending the match;
+* starting and ending the bout;
+* calling in the judge for a consultation, if required;
+* awarding points to the fighters in the match;
+* giving warnings to the fighters in the match;
+* giving penalties to the fighters in the match;
+* raising the winner's hand at the end of the match;
+* reviewing and signing the Match report;
+* bringing the Match report to the main desk.
 
 #### Judge
 
@@ -269,42 +242,30 @@ signaling system written in this document.
 The judge's responsibilities during a match in the given fighting area
 are:
 
-- following the referee's lead;
-
-- checking fighter's gear before the match starts;
-
-- assisting the referee in making decisions regarding awarding points
+* following the referee's lead;
+* checking fighter's gear before the match starts;
+* assisting the referee in making decisions regarding awarding points
   to the fighters in the match;
-
-- assisting the referee in making decisions regarding giving warnings
+* assisting the referee in making decisions regarding giving warnings
   to the fighters in the match;
-
-- assisting the referee in making decisions regarding giving penalties
+* assisting the referee in making decisions regarding giving penalties
   to the fighters in the match;
-
-- letting the referee know if a fighter exits the ring;
-
-- letting the referee know if a dangerous situation has arisen;
-
-- keeping a vigilant eye on the match, from its beginning to its end;
-
-- being ready to assist the referee from the moment they enter the
+* letting the referee know if a fighter exits the ring;
+* letting the referee know if a dangerous situation has arisen;
+* keeping a vigilant eye on the match, from its beginning to its end;
+* being ready to assist the referee from the moment they enter the
   fighting area;
-
-- making adjudicating decisions, without being influenced by the
+* making adjudicating decisions, without being influenced by the
   fighters, the referee, the public, or other staff.
 
 The judge stays silent unless:
 
-- the referee of the fighting area discusses the adjudication of the
+* the referee of the fighting area discusses the adjudication of the
   bout with the judge;
-
-- the fighter's gear did not pass the check;
-
-- a dangerous situation arises, and the judges deems it necessary to
+* the fighter's gear did not pass the check;
+* a dangerous situation arises, and the judges deems it necessary to
   stop the fight due to safety concerns;
-
-- the referee of the fighting area asks the judge a question.
+* the referee of the fighting area asks the judge a question.
 
 #### Chrono
 
@@ -314,16 +275,13 @@ constraints of a match.
 The chrono's responsibilities during a match in the given fighting area
 are:
 
-- dealing with the timer;
-
-- giving a clear, loud warning to the referee, the judge, and the
+* dealing with the timer;
+* giving a clear, loud warning to the referee, the judge, and the
   fighters (defined later) that there is a single minute of fighting
   time remaining in the match;
-
-- giving a clear, loud warning to the referee, the judge, and the
+* giving a clear, loud warning to the referee, the judge, and the
   fighters when the match's time runs out;
-
-- giving a clear, loud warning to the referee, the judge, and the
+* giving a clear, loud warning to the referee, the judge, and the
   fighters when each penalty minute has passed.
 
 #### Marker
@@ -333,11 +291,9 @@ The marker is the person in charge of tracking the score of a match.
 The marker's responsibilities during a match in the given fighting area
 are:
 
-- dealing with the scoresheet;
-
-- writing the score on the Match report at the end of the match;
-
-- giving a clear, loud warning to the referee, the judge, and the
+* dealing with the scoresheet;
+* writing the score on the Match report at the end of the match;
+* giving a clear, loud warning to the referee, the judge, and the
   fighters (defined later) that a fighter has been awarded the final
   point required for the victory by points in the match.
 
@@ -357,13 +313,10 @@ their entrance fee. The details are explained later.
 
 The fighter's responsibilities are:
 
-- upholding the spirit of sportsmanship and fair play;
-
-- making sure that the gear is fully operational when needed;
-
-- respecting the schedule;
-
-- respecting the staff decisions.
+* upholding the spirit of sportsmanship and fair play;
+* making sure that the gear is fully operational when needed;
+* respecting the schedule;
+* respecting the staff decisions.
 
 #### Squire
 
@@ -387,20 +340,16 @@ Tournament.
 
 The contestant's sign in process consists of the following steps:
 
-- filling the required information, such as full name, associated
+* filling the required information, such as full name, associated
   organization they represent, and the chosen weapon;
-
-- signing a waiver stating that they have read the rules and accept
+* signing a waiver stating that they have read the rules and accept
   the risks of participating in the matches, that they forfeit any
   right to legal or financial compensation from the organizer in case
   of an injury, and that they will only use the equipment that has
   passed the gear checkup;
-
-- passing the gear checkup;
-
-- paying the entrance fee;
-
-- receiving a T-shirt
+* passing the gear checkup;
+* paying the entrance fee;
+* receiving a T-shirt
 
 The gear checkup is done by a person designated by the official
 delegate.
@@ -444,48 +393,39 @@ The marker has the scoresheet with the appropriate colors.
 
 The match's setup protocol consists of the following steps:
 
-1.  The referee enters the empty fighting area and invites the other
-    required staff to join.
-
-2.  The judge, marker and chrono enter the fighting area and take their
-    places.
-
-3.  The marker sets the score to zero (0) to zero (0).
-
-4.  On the referee's mark, the marker calls the fighters for the match
-    to the fighting area.
-
-5.  The chrono starts the timer of one (1) minute, before the end of
-    which the fully geared fighters that have been called are expected
-    to arrive to the fighting area prepared for the match.
-
-6.  The fighters that have been called to the fighting area have one (1)
-    minute to arrive to the fighting area fully geared and prepared for
-    the match.
-
-7.  If a fighter that has been called to the fighting area fails to
-    arrive fully geared and prepared for the match within the first
-    minute, the chrono starts a penalty timer. The fighter that has not
-    arrived is deduced a point from his overall score for each full
-    minute of the penalty timer, resulting in a negative starting score.
-    The marker updates the score as required. If the negative starting
-    score reaches negative five (-5) points, the fighter is
-    disqualified. The disqualification is explained later.
-
-8.  Once the fighters are fully geared and prepared for the match, the
-    judge does a quick check‑up of the fighters' gear, in order to make
-    sure that every piece of protective gear is equipped and
-    well‑adjusted.
-
-9.  If a fighter doesn't pass the judge's gear check-up, the chrono
-    starts a penalty timer. The fighter has one (1) minute to fix the
-    issue. The fighter that has not fixed the issue with the gear is
-    deduced a point from his overall score for each full minute of the
-    penalty timer, resulting in a negative starting score. The marker
-    updates the score as required. If the negative starting score
-    reaches negative five (-5) points, the fighter is disqualified. The
-    disqualification is explained later.
-
+1. The referee enters the empty fighting area and invites the other
+   required staff to join.
+2. The judge, marker and chrono enter the fighting area and take their
+   places.
+3. The marker sets the score to zero (0) to zero (0).
+4. On the referee's mark, the marker calls the fighters for the match
+   to the fighting area.
+5. The chrono starts the timer of one (1) minute, before the end of
+   which the fully geared fighters that have been called are expected
+   to arrive to the fighting area prepared for the match.
+6. The fighters that have been called to the fighting area have one (1)
+   minute to arrive to the fighting area fully geared and prepared for
+   the match.
+7. If a fighter that has been called to the fighting area fails to
+   arrive fully geared and prepared for the match within the first
+   minute, the chrono starts a penalty timer. The fighter that has not
+   arrived is deduced a point from his overall score for each full
+   minute of the penalty timer, resulting in a negative starting score.
+   The marker updates the score as required. If the negative starting
+   score reaches negative five (-5) points, the fighter is
+   disqualified. The disqualification is explained later.
+8. Once the fighters are fully geared and prepared for the match, the
+   judge does a quick check‑up of the fighters' gear, in order to make
+   sure that every piece of protective gear is equipped and
+   well‑adjusted.
+9. If a fighter doesn't pass the judge's gear check-up, the chrono
+   starts a penalty timer. The fighter has one (1) minute to fix the
+   issue. The fighter that has not fixed the issue with the gear is
+   deduced a point from his overall score for each full minute of the
+   penalty timer, resulting in a negative starting score. The marker
+   updates the score as required. If the negative starting score
+   reaches negative five (-5) points, the fighter is disqualified. The
+   disqualification is explained later.
 10. The judge places the marking ribbons on the fighters to signify the
     fighters' colors.
 
@@ -518,25 +458,19 @@ safety issues.
 
 The bout protocol before the first bout consists of the following steps:
 
-1.  The referee calls the fighters and the judge to the center of the
-    fighting area, for a few words about the upcoming match.
-
-2.  The referee directs the fighters to their starting places.
-
-3.  The referee invites the fighters to salute the staff and each other.
-
-4.  The referee asks the marker and chrono if they are ready for the
-    match. They respond by nodding their head positively if they are
-    ready or by calling out if they are not ready.
-
-5.  The referee asks the fighters if they are ready for the match. It's
-    the referee's duty to recognize if the fighters seem ready for the
-    start of the match.
-
-6.  The referee loudly announces the beginning of the bout by loudly
-    announcing _"Fight"_.
-
-7.  The chrono starts the match's timer.
+1. The referee calls the fighters and the judge to the center of the
+   fighting area, for a few words about the upcoming match.
+2. The referee directs the fighters to their starting places.
+3. The referee invites the fighters to salute the staff and each other.
+4. The referee asks the marker and chrono if they are ready for the
+   match. They respond by nodding their head positively if they are
+   ready or by calling out if they are not ready.
+5. The referee asks the fighters if they are ready for the match. It's
+   the referee's duty to recognize if the fighters seem ready for the
+   start of the match.
+6. The referee loudly announces the beginning of the bout by loudly
+   announcing _"Fight"_.
+7. The chrono starts the match's timer.
 
 The judge is not asked to see if they are ready or not, since it's
 expected of the judge to be ready as soon as they enter the fighting
@@ -555,17 +489,14 @@ organizations the fighters represent, starting with the red fighter.
 The bout protocol before the bouts other than the first consists of the
 following steps:
 
-1.  The referee directs the fighters to their starting places, if they
-    are not already at them.
-
-2.  The referee asks the fighters if they are ready for the match. It's
-    the referee's duty to be sure the fighters are indeed ready for the
-    start of the match.
-
-3.  The referee loudly announces the beginning of the bout by loudly
-    announcing _"Fight"_.
-
-4.  The chrono resumes the match's timer.
+1. The referee directs the fighters to their starting places, if they
+   are not already at them.
+2. The referee asks the fighters if they are ready for the match. It's
+   the referee's duty to be sure the fighters are indeed ready for the
+   start of the match.
+3. The referee loudly announces the beginning of the bout by loudly
+   announcing _"Fight"_.
+4. The chrono resumes the match's timer.
 
 #### After the bout
 
@@ -578,33 +509,24 @@ bout.
 
 The protocol consists of the following steps:
 
-1.  The fighters return to their starting places.
-
-2.  The judge signals the referee their adjudicating decision by
-    following the appropriate signals (explained later).
-
-3.  If required, the referee may invite the judge for a brief
-    discussion.
-
-4.  If required, the referee and the judge may approach the fighters for
-    a brief discussion.
-
-5.  The referee can approach a fighter to calmly issue a warning, along
-    with the proper explanation.
-
-6.  The referee can disqualify a fighter from the match, along with the
-    proper explanation.
-
-7.  The referee clearly states the final adjudicating decision for the
-    bout.
-
-    - If a point is awarded, the referee states to which fighter and
-      for what reason.
-
-    - If no point is awarded, the referee must clarify why.
-
-8.  The referee clearly announces the current points. This is not needed
-    if the bout ended with no new points awarded.
+1. The fighters return to their starting places.
+2. The judge signals the referee their adjudicating decision by
+   following the appropriate signals (explained later).
+3. If required, the referee may invite the judge for a brief
+   discussion.
+4. If required, the referee and the judge may approach the fighters for
+   a brief discussion.
+5. The referee can approach a fighter to calmly issue a warning, along
+   with the proper explanation.
+6. The referee can disqualify a fighter from the match, along with the
+   proper explanation.
+7. The referee clearly states the final adjudicating decision for the
+   bout.
+   * If a point is awarded, the referee states to which fighter and
+     for what reason.
+   * If no point is awarded, the referee must clarify why.
+8. The referee clearly announces the current points. This is not needed
+   if the bout ended with no new points awarded.
 
 Adjudicating rules are explained later.
 
@@ -619,42 +541,30 @@ match. The disqualification is explained later.
 The match's conclusion protocol triggers with one of the following
 actions:
 
-- a fighter has been awarded their fifth (5th) point;
-
-- one or both fighters have been disqualified;
-
-- the match's time has run out and the chrono has loudly announced it;
-
-- the referee has ended the match due to safety concerns or other
+* a fighter has been awarded their fifth (5th) point;
+* one or both fighters have been disqualified;
+* the match's time has run out and the chrono has loudly announced it;
+* the referee has ended the match due to safety concerns or other
   reasons.
 
 The match's conclusion protocol consists of the following steps:
 
-1.  The referee announces the score, starting with the red fighter.
-
-2.  If both fighters have the same number of points, the referee calls
-    for additional bouts, until a fighter scores the final point,
-    signifying that a winner can be clearly defined.
-
-3.  The referee loudly announces the winner of the match. In the
-    elimination matches, it is advised to have the fighters remove their
-    masks and approach the referee, so that the referee can loudly
-    announce the fighters' names and the associated organizations they
-    represent, before announcing the winner.
-
-4.  The marker fills out the Match report.
-
-5.  The fighters are encouraged to display gestures of friendship or
-    respect, such as hugs and congratulations each other.
-
-6.  The judge removes the marking ribbons.
-
-7.  The fighters leave the fighting area.
-
-8.  The referee goes to the marker to sign and collect the Match report.
-
-9.  The referee delivers the Match report to the main desk.
-
+1. The referee announces the score, starting with the red fighter.
+2. If both fighters have the same number of points, the referee calls
+   for additional bouts, until a fighter scores the final point,
+   signifying that a winner can be clearly defined.
+3. The referee loudly announces the winner of the match. In the
+   elimination matches, it is advised to have the fighters remove their
+   masks and approach the referee, so that the referee can loudly
+   announce the fighters' names and the associated organizations they
+   represent, before announcing the winner.
+4. The marker fills out the Match report.
+5. The fighters are encouraged to display gestures of friendship or
+   respect, such as hugs and congratulations each other.
+6. The judge removes the marking ribbons.
+7. The fighters leave the fighting area.
+8. The referee goes to the marker to sign and collect the Match report.
+9. The referee delivers the Match report to the main desk.
 10. If the match ended due to a disqualification, the referee must
     report that to the official delegate.
 
@@ -729,28 +639,23 @@ head, shoulders, chest, abdomen, arms, and hands.
 
 A point can be awarded for the following hits:
 
-- High-quality strike. The strike is defined as valid when the
+* High-quality strike. The strike is defined as valid when the
   adjudicators think the strike has enough force and covers enough of
   the target with the proper intention. If the target is an arm or a
   hand, the blade must cover most of the target.
-
-- High-quality cut. The cut is defined as valid when the adjudicators
+* High-quality cut. The cut is defined as valid when the adjudicators
   think the edge of the blade is placed on the target and pushed or
   pulled to cover enough of the target. If the target is an arm or a
   hand, the blade must cover most of the target.
 
-<!-- -->
-
-- High-quality stab. The stab is defined as valid when the
+* High-quality stab. The stab is defined as valid when the
   adjudicators think the stab was made in the correct distance, and
   the flex of the blade is visible, or the opponent is visibly pushed.
-
-- _Ringen am Schwert_ (wrestling at the sword). The wrestling is
+* _Ringen am Schwert_ (wrestling at the sword). The wrestling is
   defined as valid when the adjudicators think the dominance is
   asserted by a controlled lock joint, disarming the opponent, a throw
   preparation, or by making the opponent fall without throwing them.
-
-- Forcing the opponent out of the ring.
+* Forcing the opponent out of the ring.
 
 ### Invalid hits
 
@@ -758,38 +663,33 @@ Hits to the lower body or the back are considered invalid.
 
 The following hits don't earn points:
 
-- Low-quality strike. The strike is defined as invalid when the
+* Low-quality strike. The strike is defined as invalid when the
   adjudicators think the strike didn't have enough force, didn't cover
   enough of the target, or lacked proper intention. The strike does
   not count as valid if the edge of the blade is only placed on the
   target. Tapping the opponent with a sword will not count as a stab.
-
-- Low-quality cut. The cut is defined as invalid when the adjudicators
+* Low-quality cut. The cut is defined as invalid when the adjudicators
   think the cut was attempted with the flat of the blade, or if the
   cut did not cover enough of the target.
-
-- Low-quality stab. The stab is defined as invalid when the
+* Low-quality stab. The stab is defined as invalid when the
   adjudicators think the stab wasn't made in the correct distance, and
   the flex of the weapon was not visible, or the opponent didn't move.
   Touching the opponent with the tip of the weapon will not count as a
   stab.
-
-- Hitting each other in the same tempo is called a double hit, and no
+* Hitting each other in the same tempo is called a double hit, and no
   points are awarded.
 
 ### Exceptions
 
 The following are exceptions to the rules:
 
-- If the opponent is not defending themselves appropriately, the
+* If the opponent is not defending themselves appropriately, the
   fighter can be awarded a point for a low-quality strike, a
   low-quality cut, or a low-quality stab, if they chose to it without
   excessive force.
-
-- In case of a double hit, the point can be awarded to the fighter who
+* In case of a double hit, the point can be awarded to the fighter who
   first initiated the attack.
-
-- If the attacked is standing in the _Langort_ stance, and does not
+* If the attacked is standing in the _Langort_ stance, and does not
   move from it, the attacked is given the advantage in the case of a
   double hit.
 
@@ -798,22 +698,16 @@ The following are exceptions to the rules:
 The use of the following forbidden techniques can result in the
 immediate disqualification from the match and the Tournament:
 
-- Throws. Throw preparations are allowed and counted as valid hits,
+* Throws. Throw preparations are allowed and counted as valid hits,
   but actually throwing an opponent is not allowed.
-
-- Chokeholds and throw preparations that use the neck as their only
+* Chokeholds and throw preparations that use the neck as their only
   lever.
-
-- Throw preparations that move against the natural movement of the
+* Throw preparations that move against the natural movement of the
   joints.
-
-- Striking with the crossguard or a pommel.
-
-- Intentional hits to the lower half of the body.
-
-- Intentional hits to the back of the head or to the spine.
-
-- Throwing the sword as a projectile.
+* Striking with the crossguard or a pommel.
+* Intentional hits to the lower half of the body.
+* Intentional hits to the back of the head or to the spine.
+* Throwing the sword as a projectile.
 
 ## Adjudication
 
@@ -822,13 +716,11 @@ The referee and the judge adjudicate after each bout.
 The judge uses the flags to signal their adjudication. The flag signals
 are:
 
-- raising the red flag to signal the judge's opinion that the red
+* raising the red flag to signal the judge's opinion that the red
   fighter earned a point;
-
-- raising the yellow flag to signal the judge's opinion that the
+* raising the yellow flag to signal the judge's opinion that the
   yellow fighter earned a point;
-
-- crossing the flags to signal the judge's opinion that neither
+* crossing the flags to signal the judge's opinion that neither
   fighter earned a point.
 
 The referee doesn't signal their adjudication. If required, the referee
@@ -1005,23 +897,21 @@ head, shoulders, chest, abdomen, arms, and forearms.
 
 A point can be awarded for the following hits:
 
-- High-quality strike. The strike is defined as valid when the
+* High-quality strike. The strike is defined as valid when the
   adjudicators think the strike has enough force and covers enough of
   the target with the proper intention. If the target is an arm or a
   forearm, the blade must cover most of the target.
-
-- High-quality cut. The cut is defined as valid when the adjudicators
+* High-quality cut. The cut is defined as valid when the adjudicators
   think the edge of the blade is placed on the target and pushed or
   pulled to cover enough of the target. If the target is an arm or a
   forearm, the blade must cover most of the target.
 
 <!-- -->
 
-- High-quality stab. The stab is defined as valid when the
+* High-quality stab. The stab is defined as valid when the
   adjudicators think the stab was made in the correct distance, and
   the flex of the blade is visible, or the opponent is visibly pushed.
-
-- Forcing the opponent out of the ring without any physical contact
+* Forcing the opponent out of the ring without any physical contact
 
 ### Invalid hits
 
@@ -1029,35 +919,31 @@ Hits to the lower body or the back are considered invalid.
 
 The following hits don't earn points:
 
-- Low-quality strike. The strike is defined as invalid when the
+* Low-quality strike. The strike is defined as invalid when the
   adjudicators think the strike didn't have enough force, didn't cover
   enough of the target, or lacked proper intention. The strike does
   not count as valid if the edge of the blade is only placed on the
   target. Tapping the opponent with a sword will not count as a stab.
-
-- Low-quality cut. The cut is defined as invalid when the adjudicators
+* Low-quality cut. The cut is defined as invalid when the adjudicators
   think the cut was attempted with the flat of the blade, or if the
   cut did not cover enough of the target.
-
-- Low-quality stab. The stab is defined as invalid when the
+* Low-quality stab. The stab is defined as invalid when the
   adjudicators think the stab wasn't made in the correct distance, and
   the flex of the weapon was not visible, or the opponent didn't move.
   Touching the opponent with the tip of the weapon will not count as a
   stab.
-
-- Hitting each other in the same tempo is called a double hit, and no
+* Hitting each other in the same tempo is called a double hit, and no
   points are awarded.
 
 ### Exceptions
 
 The following are exceptions to the rules:
 
-- If the opponent is not defending themselves appropriately, the
+* If the opponent is not defending themselves appropriately, the
   fighter can be awarded a point for a low-quality strike, a
   low-quality cut, or a low-quality stab, if they chose to it without
   excessive force.
-
-- In case of a double hit, a point can be awarded to the fighter who
+* In case of a double hit, a point can be awarded to the fighter who
   initiated the attack, if his strike is from the same, or a higher
   quality than his opponent's. A critical strike (to the head of the
   weapon arm) ranks higher than a regular strike.
@@ -1067,9 +953,8 @@ The following are exceptions to the rules:
 The use of the following forbidden techniques can result in the
 immediate disqualification from the match and the Tournament:
 
-- Any form of wrestling
-
-- Grabbing your opponent's weapon
+* Any form of wrestling
+* Grabbing your opponent's weapon
 
 ## Adjudication
 
@@ -1078,13 +963,11 @@ The referee and the judge adjudicate after each bout.
 The judge uses the flags to signal their adjudication. The flag signals
 are:
 
-- raising the red flag to signal the judge's opinion that the red
+* raising the red flag to signal the judge's opinion that the red
   fighter earned a point;
-
-- raising the yellow flag to signal the judge's opinion that the
+* raising the yellow flag to signal the judge's opinion that the
   yellow fighter earned a point;
-
-- crossing the flags to signal the judge's opinion that neither
+* crossing the flags to signal the judge's opinion that neither
   fighter earned a point.
 
 The referee doesn't signal their adjudication. If required, the referee
