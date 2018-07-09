@@ -1,0 +1,31 @@
+/* Strip units */
+@function strip($value) {
+  @return $value / ($value * 0 + 1);
+}
+
+/* Clamped property lerp mixin */
+@mixin clamp($properties, $min, $max, $min-vw: 320px, $max-vw: $grid-max) {
+  // lower value
+  @each $property in $properties {
+    #{$property}: $min;
+  }
+
+  // lerp
+  @include breakpoint($min-vw $max-vw) {
+    @each $property in $properties {
+      #{$property}: calc(
+        #{strip($max - $min) /
+          strip($max-vw - $min-vw)} *
+          (100vw - #{$min-vw}) +
+          #{$min}
+      );
+    }
+  }
+
+  // upper value
+  @include breakpoint($max-vw) {
+    @each $property in $properties {
+      #{$property}: $max;
+    }
+  }
+}

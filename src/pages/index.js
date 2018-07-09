@@ -18,9 +18,7 @@ const indexPage = props => {
       </section>
       <section>
         <h2>News</h2>
-        {posts.map(({ node }) => {
-          return <NewsArticle {...node} key={node.id} />;
-        })}
+        {posts.map(({ node }) => <NewsArticle {...node} key={node.id} />)}
       </section>
       <section>
         <h2>Partners</h2>
