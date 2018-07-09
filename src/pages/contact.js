@@ -3,8 +3,7 @@ import Helmet from 'react-helmet';
 
 const title = 'Contacts';
 
-const ContactPage = (props) => {
-  console.log(props);
+const ContactPage = () => {
   return (
     <section>
       <Helmet title={title} />
