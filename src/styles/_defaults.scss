@@ -14,11 +14,17 @@ body {
     Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
   overflow-y: scroll;
   padding-bottom: 4rem;
+  line-height: 1.5;
   @include clamp(font-size, 16px, 22px);
 }
 
-p {
-  line-height: 1.5;
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  line-height: 1.15;
 }
 
 ::placeholder {
