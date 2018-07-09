@@ -31,26 +31,32 @@ const TeamPage = () => {
             <p>Floor Manager</p>
           </div>
           <div className="team-member">
+            <Image src="v1531133782/team/Monika_Cerjak_Mileusnic" />
             <h2>Ita Fuček</h2>
             <p>Assistant Floor Manager</p>
           </div>
           <div className="team-member">
+            <Image src="v1531133782/team/Monika_Cerjak_Mileusnic" />
             <h2>Marko Štuhec</h2>
             <p>Referee</p>
           </div>
           <div className="team-member">
+            <Image src="v1531133782/team/Monika_Cerjak_Mileusnic" />
             <h2>Vatroslav Mileunić</h2>
             <p>Referee</p>
           </div>
           <div className="team-member">
+            <Image src="v1531133782/team/Monika_Cerjak_Mileusnic" />
             <h2>Roman Vučajnk</h2>
             <p>Referee</p>
           </div>
           <div className="team-member">
+            <Image src="v1531133782/team/Monika_Cerjak_Mileusnic" />
             <h2>Alen Lovrič</h2>
             <p>Referee</p>
           </div>
           <div className="team-member">
+            <Image src="v1531133782/team/Monika_Cerjak_Mileusnic" />
             <h2>Lui Elle</h2>
             <p>Referee</p>
           </div>
