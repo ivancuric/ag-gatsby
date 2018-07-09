@@ -10,7 +10,6 @@ const NewsArticle = node => (
       <small>{node.frontmatter.date}</small>
     </header>
     <p>{node.excerpt}</p>
-    <Link to={node.fields.slug}>Keep Reading</Link>
   </article>
 );
 

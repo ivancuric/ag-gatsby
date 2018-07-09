@@ -11,7 +11,7 @@ const BlogPost = props => {
   return (
     <section>
       <Helmet title={`${title} | Blog`} />
-      <div className="container md">
+      <div className="container rt">
         <h1>{title}</h1>
         <div>
           <p>{description}</p>

@@ -8,12 +8,14 @@ const indexPage = props => {
   return (
     <div className="container">
       <section>
-        <h1>Neyman Fencing Tournament 2018</h1>
-        <p>25th and 26th of August 2018</p>
-        <p>
-          First international longsword and one-handed sword open tournament in
-          Croatia held by Ars Gladiatoria Zagreb and Academia Artis Dimicatoriae
-        </p>
+        <div className="rt">
+          <h1>Neyman Fencing Tournament 2018</h1>
+          <p>25th and 26th of August 2018</p>
+          <p>
+            First international longsword and one-handed sword open tournament in
+            Croatia held by Ars Gladiatoria Zagreb and Academia Artis Dimicatoriae
+          </p>
+        </div>
         <Link to="/tickets">Get the ticket</Link>
       </section>
       <section>
@@ -21,12 +23,14 @@ const indexPage = props => {
         {posts.map(({ node }) => <NewsArticle {...node} key={node.id} />)}
       </section>
       <section>
-        <h2>Partners</h2>
-        <ul>
-          <li>Neyman Fencing</li>
-          <li>Arming Guild</li>
-          <li>Teximp 360° CNC solutions</li>
-        </ul>
+        <div className="rt">
+          <h2>Partners</h2>
+          <ul>
+            <li>Neyman Fencing</li>
+            <li>Arming Guild</li>
+            <li>Teximp 360° CNC solutions</li>
+          </ul>
+        </div>
       </section>
     </div>
   );

@@ -2,14 +2,9 @@
 @import '~breakpoint-sass/stylesheets/breakpoint';
 @import 'variables';
 @import 'mixins';
+@import 'reset';
 @import 'defaults';
-
-ol,
-ul {
-  li {
-    margin-bottom: 0.5em;
-  }
-}
+@import 'rt';
 
 .navbar {
   padding-top: 1em;
@@ -42,10 +37,10 @@ no-br {
 
 .schedule-row {
   display: flex;
-  border-top: 1px solid #eee;
+  border-top: 1px solid #dfe0e2;
 
   &:last-of-type {
-    border-bottom: 1px solid #eee;
+    border-bottom: 1px solid #dfe0e2;
   }
 
   > div {
@@ -61,8 +56,31 @@ no-br {
 }
 
 .schedule-time {
-  border-right: 1px solid #eee;
+  border-right: 1px solid #dfe0e2;
   white-space: nowrap;
   flex-basis: 10em;
   flex-shrink: 0;
+}
+
+.team-grid {
+  display: grid;
+  grid-gap: 2rem;
+  grid-template-columns: repeat(2, 1fr);
+
+  @include breakpoint(640px) {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+.team-member {
+  h2 {
+    font-size: 1em;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+  }
+
+  p {
+    font-size: 0.8em;
+    margin: 0;
+  }
 }

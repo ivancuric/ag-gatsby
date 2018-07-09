@@ -6,7 +6,7 @@ const title = 'Registration';
 const RegisterPage = () => (
   <section>
     <Helmet title={title} />
-    <div className="container">
+    <div className="container rt">
       <h1>{title}</h1>
 
       <h2>Entrance fee</h2>

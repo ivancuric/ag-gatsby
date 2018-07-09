@@ -2,7 +2,8 @@ html {
   position: relative;
   min-width: 320px;
   background-color: #fff;
-  color: #000;
+  color: #2f292b;
+  overflow-y: scroll;
 }
 
 body {
@@ -10,12 +11,18 @@ body {
   font-variant-ligatures: common-ligatures;
   font-feature-settings: 'liga', 'clig', 'kern';
   text-rendering: optimizeLegibility;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica,
-    Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
-  overflow-y: scroll;
+  font-family: Georgia, Times, 'Times New Roman', serif;
   padding-bottom: 4rem;
   line-height: 1.5;
-  @include clamp(font-size, 16px, 22px);
+  @include clamp(font-size, 16px, 20px);
+}
+
+a {
+  color: $red;
+
+  &:active {
+    color: $red2;
+  }
 }
 
 h1,
@@ -25,10 +32,12 @@ h4,
 h5,
 h6 {
   line-height: 1.15;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica,
+    Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
 }
 
 ::placeholder {
-  color: #9e9e9e;
+  color: #a5a6a9;
   font-weight: 400;
   font-variant-ligatures: common-ligatures;
   font-feature-settings: 'liga', 'clig', 'kern';
@@ -36,12 +45,13 @@ h6 {
 }
 
 ::selection {
-  background-color: rgba(#000, 0.999);
+  background-color: rgba($red, 0.999);
   color: #fff;
   text-shadow: none;
 }
 
 img {
   max-width: 100%;
+  width: 100%;
   display: block;
 }

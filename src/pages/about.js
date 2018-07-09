@@ -7,7 +7,7 @@ const title = 'About the tournament';
 const AboutPage = () => (
   <section>
     <Helmet title={title} />
-    <div className="container">
+    <div className="container rt">
       <h1>{title}</h1>
 
       <h2>Categories and opportunities</h2>
