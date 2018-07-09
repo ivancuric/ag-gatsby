@@ -1,71 +1,69 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin-top: 1.25em;
+  @include clamp(margin-bottom, 10px, 16px);
+}
+
 h1 {
   font-size: 2.6179em;
-  margin-top: 1.25em;
   font-weight: 500;
 }
 
 h2 {
   font-size: 2.0581em;
-  margin-top: 1.25em;
   font-weight: 600;
 }
 
 h3 {
   font-size: 1.618em;
-  margin-top: 1.25em;
   font-weight: 600;
 }
 
 h4 {
   font-size: 1.272em;
-  margin-top: 1.25em;
   font-weight: 700;
 }
 
 h5 {
   font-size: 1em;
-  margin-top: 1.25em;
   font-weight: 700;
 }
 
 h6 {
   font-size: 1.7862em;
-  margin-top: 1.25em;
   font-weight: 700;
 }
 
 .rt {
   h1 {
     font-size: 2.6179em;
-    margin-top: 1.25em;
     font-weight: 500;
   }
 
   h2 {
     font-size: 2.0581em;
-    margin-top: 1.25em;
     font-weight: 600;
   }
 
   h3 {
     font-size: 1.618em;
-    margin-top: 1.25em;
     font-weight: 600;
   }
 
   h4 {
     font-size: 1.272em;
-    margin-top: 1.25em;
   }
 
   h5 {
     font-size: 1em;
-    margin-top: 1.25em;
   }
 
   h6 {
     font-size: 1.7862em;
-    margin-top: 1.25em;
   }
 
   p {
@@ -114,8 +112,8 @@ h6 {
         width: 0.35em;
         height: 0.35em;
         background: $red;
-        left: 0.5em;
-        top: 0.66em;
+        left: 0.6em;
+        top: 0.6em;
       }
     }
   }
