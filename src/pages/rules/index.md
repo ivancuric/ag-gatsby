@@ -905,9 +905,6 @@ A point can be awarded for the following hits:
   think the edge of the blade is placed on the target and pushed or
   pulled to cover enough of the target. If the target is an arm or a
   forearm, the blade must cover most of the target.
-
-<!-- -->
-
 * High-quality stab. The stab is defined as valid when the
   adjudicators think the stab was made in the correct distance, and
   the flex of the blade is visible, or the opponent is visibly pushed.
