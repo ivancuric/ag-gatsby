@@ -2,7 +2,7 @@ import React from 'react';
 import Link from 'gatsby-link';
 
 const Navbar = () => (
-  <header>
+  <header className="navbar">
     <div className="container">
       <nav className="nav">
         <Link to="/">Homepage</Link>

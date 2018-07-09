@@ -3,6 +3,7 @@
   "plugins": ["stylelint-scss"],
   "rules": {
     "declaration-empty-line-before": null,
+    "at-rule-no-unknown": null,
     "declaration-block-no-redundant-longhand-properties": null,
     "no-descending-specificity": null,
     "selector-type-no-unknown": [

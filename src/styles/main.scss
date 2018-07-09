@@ -1,3 +1,6 @@
+@import '~sanitize.css/sanitize';
+@import '~breakpoint-sass/stylesheets/breakpoint';
+
 // @font-face {
 //   font-family: 'Open Sans';
 //   src: url(../fonts/OpenSans-Bold.woff2) format('woff2');
@@ -19,10 +22,42 @@
 //   font-style: normal;
 // }
 
+/* Strip units */
+@function strip($value) {
+  @return $value / ($value * 0 + 1);
+}
+
+/* Clamped property lerp mixin */
+@mixin clamp($properties, $min, $max, $min-vw: 480px, $max-vw: 800px) {
+  // lower value
+  @each $property in $properties {
+    #{$property}: $min;
+  }
+
+  // lerp
+  @include breakpoint($min-vw $max-vw) {
+    @each $property in $properties {
+      #{$property}: calc(
+        #{strip($max - $min) /
+          strip($max-vw - $min-vw)} *
+          (100vw - #{$min-vw}) +
+          #{$min}
+      );
+    }
+  }
+
+  // upper value
+  @include breakpoint($max-vw) {
+    @each $property in $properties {
+      #{$property}: $max;
+    }
+  }
+}
+
 body {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica,
     Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
-  font-size: 18px;
+  @include clamp(font-size, 16px, 22px);
 }
 
 p {
@@ -38,13 +73,15 @@ pre {
   font-size: 1em; /* 2 */
 }
 
-// .md {
-// }
+.navbar {
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
 
 .container {
   max-width: 800px;
-  padding-left: 24px;
-  padding-right: 24px;
+  padding-left: 1em;
+  padding-right: 1em;
   margin-left: auto;
   margin-right: auto;
 }
@@ -93,6 +130,6 @@ img {
 .schedule-time {
   border-right: 1px solid #eee;
   white-space: nowrap;
-  flex-basis: 150px;
+  flex-basis: 10em;
   flex-shrink: 0;
 }
