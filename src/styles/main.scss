@@ -28,7 +28,7 @@
 }
 
 /* Clamped property lerp mixin */
-@mixin clamp($properties, $min, $max, $min-vw: 480px, $max-vw: 800px) {
+@mixin clamp($properties, $min, $max, $min-vw: 320px, $max-vw: 800px) {
   // lower value
   @each $property in $properties {
     #{$property}: $min;

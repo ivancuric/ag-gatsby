@@ -1,7 +1,6 @@
 import React from 'react';
 import NewsArticle from '../components/NewsArticle';
 import Link from 'gatsby-link';
-// import neymanImg from '../img/neyman.png';
 
 const indexPage = props => {
   const posts = props.data.allMarkdownRemark.edges;
@@ -25,7 +24,6 @@ const indexPage = props => {
       </section>
       <section>
         <h2>Partners</h2>
-        {/* <img src={neymanImg} alt=""/> */}
         <ul>
           <li>Neyman Fencing</li>
           <li>Arming Guild</li>
