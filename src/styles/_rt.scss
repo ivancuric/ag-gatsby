@@ -5,7 +5,11 @@ h4,
 h5,
 h6 {
   margin-top: 1.25em;
-  @include clamp(margin-bottom, 10px, 16px);
+  margin-bottom: 0;
+
+  a {
+    text-decoration: none;
+  }
 }
 
 h1 {

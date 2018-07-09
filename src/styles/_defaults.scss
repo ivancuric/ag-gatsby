@@ -4,6 +4,7 @@ html {
   background-color: #fff;
   color: #2f292b;
   overflow-y: scroll;
+  @include clamp(font-size, 18px, 20px);
 }
 
 body {
@@ -14,7 +15,6 @@ body {
   font-family: Georgia, Times, 'Times New Roman', serif;
   padding-bottom: 4rem;
   line-height: 1.5;
-  @include clamp(font-size, 18px, 20px);
 }
 
 a {
