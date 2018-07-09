@@ -58,6 +58,8 @@ body {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica,
     Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
   @include clamp(font-size, 16px, 22px);
+  min-width: 320px;
+  overflow-y: scroll;
 }
 
 p {
