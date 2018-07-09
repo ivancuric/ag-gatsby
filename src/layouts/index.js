@@ -8,10 +8,10 @@ export default ({ children, data }) => {
   console.log(data.site.siteMetadata.title);
   return (
     <React.Fragment>
-      <Helmet
-        title={data.site.siteMetadata.title}
-        description={data.site.siteMetadata.description}
-      />
+      <Helmet>
+        <title>{data.site.siteMetadata.title}</title>
+        <meta name="description" content={data.site.siteMetadata.description} />
+      </Helmet>
       <Navbar />
       <main>{children()}</main>
     </React.Fragment>
