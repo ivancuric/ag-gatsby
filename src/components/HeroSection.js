@@ -1,16 +1,6 @@
 import React from 'react';
 import Link from 'gatsby-link';
 
-// const BgImageStyle = src => {
-//   const baseUrl =
-//     'https://res.cloudinary.com/ars-gladiatoria-zagreb/image/upload';
-//   const height = 600;
-//   const params = ['f_auto', 'q_auto:best'].join(',');
-//   return {
-//     backgroundImage: `url(${baseUrl}/${params},h_${height}/${src})`,
-//   };
-// };
-
 const HeroSection = () => (
   <section className="hero-section">
     <div className="hero-section-inner">

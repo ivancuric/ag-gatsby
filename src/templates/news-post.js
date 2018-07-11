@@ -15,7 +15,7 @@ const BlogPost = props => {
         <header>
           <h1>{title}</h1>
           <div>
-            <p>{description}</p>
+            {description && <p>{description}</p>}
             <small>{post.frontmatter.date}</small>
           </div>
         </header>

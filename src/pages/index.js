@@ -1,18 +1,13 @@
 import React from 'react';
-import NewsArticle from '../components/NewsArticle';
+import NewsSection from '../components/NewsSection';
 import HeroSection from '../components/HeroSection';
 
 const indexPage = props => {
-  const posts = props.data.allMarkdownRemark.edges;
-
   return (
     <div>
       <HeroSection />
       <div className="container">
-        <section className="section-split">
-          <h2>News</h2>
-          {posts.map(({ node }) => <NewsArticle {...node} key={node.id} />)}
-        </section>
+        {props.data.allMarkdownRemark && <NewsSection {...props} />}
         <section className="section-split">
           <h2>Partners</h2>
           <ul className="partner-grid">
@@ -29,7 +24,7 @@ const indexPage = props => {
 export default indexPage;
 
 export const pageQuery = graphql`
-  query IndexQuery {
+  query NewsPostQuery {
     allMarkdownRemark(
       sort: { order: DESC, fields: [frontmatter___date] }
       filter: { frontmatter: { templateKey: { eq: "news-post" } } }
