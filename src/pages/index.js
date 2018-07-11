@@ -9,11 +9,11 @@ const indexPage = props => {
     <div>
       <HeroSection />
       <div className="container">
-        <section>
+        <section className="section-split">
           <h2>News</h2>
           {posts.map(({ node }) => <NewsArticle {...node} key={node.id} />)}
         </section>
-        <section>
+        <section className="section-split">
           <h2>Partners</h2>
           <ul className="partner-grid">
             <li>Neyman Fencing</li>

@@ -15,10 +15,10 @@ const Navbar = () => (
       <Link className="logo" to="/" title="Homepage">
         <Image src="v1531172911/logos/NeCro-LOGO.png" />
       </Link>
-      <Link className="nav-item" to="/about">About</Link>
-      <Link className="nav-item" to="/schedule">Schedule</Link>
-      <Link className="nav-item" to="/rules">Rules</Link>
-      <Link className="nav-item" to="/team">Team</Link>
+      <Link to="/about">About</Link>
+      <Link to="/schedule">Schedule</Link>
+      <Link to="/rules">Rules</Link>
+      <Link to="/team">Team</Link>
       <Link className="register-button" to="/register">Register</Link>
     </nav>
   </header>

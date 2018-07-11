@@ -12,7 +12,7 @@
 }
 
 .hero-title {
-  font-size: 2.5em;
+  font-size: 2.6em;
 }
 
 .hero-date {
@@ -78,6 +78,10 @@ no-br {
   align-items: center;
   align-self: stretch;
 
+  &:hover {
+    background: $red3;
+  }
+
   &:active {
     color: #fff;
   }
@@ -99,6 +103,10 @@ no-br {
   &:active {
     color: #fff;
   }
+
+  &:hover {
+    background: $red3;
+  }
 }
 
 .hero-section {
@@ -106,20 +114,9 @@ no-br {
   background-size: cover;
   margin-top: 5rem;
   margin-bottom: 5rem;
-  // min-height: 600px;
-  // padding-left: 1rem;
-  // padding-right: 1rem;
-  // display: flex;
-  // background-image: url('http://res.cloudinary.com/ars-gladiatoria-zagreb/image/upload/ar_16:9,b_rgb:ffffff,c_fill,g_north,q_auto:best,w_1920/v1531217053/Naslovna_v1');
 }
 
 .hero-section-inner {
-  // display: none;
-  // margin-top: auto;
-  // margin-bottom: auto;
-  // margin-left: auto;
-  // text-align: right;
-  // max-width: 600px;
   text-align: center;
 
   h1 {
@@ -204,4 +201,18 @@ no-br {
 
 .news-article-excerpt {
   margin-top: 1em;
+}
+
+.section-split {
+  position: relative;
+
+  &::before {
+    content: '';
+    display: block;
+    margin-top: 4em;
+    height: 1px;
+    width: 100%;
+    margin-bottom: 4em;
+    background: rgb(226, 226, 226);
+  }
 }

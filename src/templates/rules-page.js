@@ -4,7 +4,7 @@ import HeadingShifter from '../components/HeadingShifter';
 
 const RulesPage = props => {
   const post = props.data.markdownRemark;
-  const title = post.frontmatter.title;
+  const title = 'Tournament Rules';
 
   return (
     <section>

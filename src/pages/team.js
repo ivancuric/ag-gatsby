@@ -1,7 +1,7 @@
 import React from 'react';
 import Helmet from 'react-helmet';
 
-const title = 'Team';
+const title = 'The Team';
 
 const Image = ({ src, alt }) => {
   const baseUrl =

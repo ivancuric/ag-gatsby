@@ -17,8 +17,12 @@ body {
   @include lora;
 }
 
-a {
+a:not([class]) {
   color: $red;
+
+  &:hover {
+    color: $red3;
+  }
 
   &:active {
     color: $red2;
