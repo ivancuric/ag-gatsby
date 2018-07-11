@@ -3,11 +3,18 @@ module.exports = {
     title: 'Neyman Fencing Tournament 2018',
     description: `First international longsword and one-handed sword open tournament in Croatia held by Ars Gladiatoria Zagreb and Academia Artis Dimicatoriae — 25th and 26th of August 2018`,
   },
-  polyfill: false,
   plugins: [
     'gatsby-plugin-react-next',
     'gatsby-plugin-react-helmet',
     `gatsby-plugin-sass`,
+    {
+      resolve: 'gatsby-plugin-web-font-loader',
+      options: {
+        google: {
+          families: ['Lora:400,700', 'IBM Plex Serif:400,500,600,700'],
+        },
+      },
+    },
     {
       resolve: 'gatsby-source-filesystem',
       options: {

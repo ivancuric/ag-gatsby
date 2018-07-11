@@ -4680,6 +4680,13 @@ gatsby-plugin-typography@^1.7.19:
     react-typography "^0.16.1"
     typography "^0.16.0"
 
+gatsby-plugin-web-font-loader@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-web-font-loader/-/gatsby-plugin-web-font-loader-1.0.2.tgz#ed34f6c1c0a19d6a57d8ed716f12246d1911b448"
+  dependencies:
+    babel-runtime "^6.26.0"
+    webfontloader "^1.6.28"
+
 gatsby-react-router-scroll@^1.0.18:
   version "1.0.18"
   resolved "https://registry.yarnpkg.com/gatsby-react-router-scroll/-/gatsby-react-router-scroll-1.0.18.tgz#616ffb801dbdbe4598611e2ff3861b91ac3eecbf"
