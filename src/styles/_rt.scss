@@ -4,8 +4,10 @@ h3,
 h4,
 h5,
 h6 {
+  line-height: 1.15;
   margin-top: 1.25em;
   margin-bottom: 0;
+  @include ibm;
 
   a {
     text-decoration: none;
@@ -13,23 +15,23 @@ h6 {
 }
 
 h1 {
-  font-size: 2.6179em;
-  font-weight: 600;
+  font-size: 2.441em;
+  font-weight: 500;
 }
 
 h2 {
-  font-size: 2.0581em;
-  font-weight: 600;
+  font-size: 1.953em;
+  font-weight: 500;
 }
 
 h3 {
-  font-size: 1.618em;
-  font-weight: 600;
+  font-size: 1.563em;
+  font-weight: 500;
 }
 
 h4 {
-  font-size: 1.272em;
-  font-weight: 700;
+  font-size: 1.25em;
+  font-weight: 600;
 }
 
 h5 {
@@ -38,59 +40,75 @@ h5 {
 }
 
 h6 {
-  font-size: 1.7862em;
+  font-size: 0.8em;
   font-weight: 700;
 }
 
 .rt {
   p {
-    margin-top: 1em;
-    margin-bottom: 1em;
+    &:not([class]) {
+      margin-top: 1em;
+      margin-bottom: 1em;
+    }
+  }
+
+  img {
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1.5em;
+    margin-bottom: 1.5em;
   }
 
   ol,
   ul {
-    margin-top: 1em;
-    margin-bottom: 1em;
-    list-style: none;
+    &:not([class]) {
+      margin-top: 1em;
+      margin-bottom: 1em;
+      list-style: none;
 
-    li {
-      margin-bottom: 0.5em;
-      position: relative;
+      > li {
+        margin-bottom: 0.5em;
+        position: relative;
+      }
     }
   }
 
   ol {
-    counter-reset: ol;
+    &:not([class]) {
+      counter-reset: ol;
 
-    > li {
-      counter-increment: ol;
-      padding-left: 2em;
+      > li {
+        counter-increment: ol;
+        padding-left: 2em;
 
-      &::before {
-        color: $red;
-        position: absolute;
-        left: -1em;
-        width: 2em;
-        content: counter(ol) '.';
-        text-align: right;
+        &::before {
+          color: $red;
+          position: absolute;
+          left: -1em;
+          width: 2em;
+          content: counter(ol) '.';
+          text-align: right;
+        }
       }
     }
   }
 
   ul {
-    > li {
-      padding-left: 1.5em;
+    &:not([class]) {
+      > li {
+        padding-left: 1.5em;
 
-      &::before {
-        content: '';
-        border-radius: 50%;
-        position: absolute;
-        width: 0.35em;
-        height: 0.35em;
-        background: $red;
-        left: 0.6em;
-        top: 0.6em;
+        &::before {
+          content: '';
+          border-radius: 50%;
+          position: absolute;
+          width: 0.35em;
+          height: 0.35em;
+          background: $red;
+          left: 0.6em;
+          top: 0.6em;
+        }
       }
     }
   }

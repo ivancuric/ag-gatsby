@@ -30,8 +30,12 @@
   }
 }
 
-@mixin serif {
-  font-family: Georgia, Times, 'Times New Roman', serif;
+@mixin lora {
+  font-family: 'Lora', Georgia, Times, 'Times New Roman', serif;
+}
+
+@mixin ibm {
+  font-family: 'IBM Plex Serif', serif;
 }
 
 @mixin sans {

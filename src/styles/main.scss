@@ -11,6 +11,18 @@
   // padding-bottom: 1em;
 }
 
+.hero-title {
+  font-size: 2.5em;
+}
+
+.hero-date {
+  // @include ibm;
+  margin-top: 1.5em;
+  margin-bottom: 1.5em;
+  font-weight: 700;
+  font-size: 1.3em;
+}
+
 .container {
   max-width: $grid-max;
   padding-left: 1rem;
@@ -25,29 +37,32 @@ no-br {
 
 .nav {
   display: flex;
+  font-size: 18px;
   padding-left: 1rem;
-  // padding-right: 1rem;
+  padding-right: 1rem;
   margin-left: auto;
   margin-right: auto;
   align-items: center;
   white-space: nowrap;
+  margin-top: 1em;
+  margin-bottom: 1em;
 
   > a {
     display: block;
     text-decoration: none;
-    margin-right: 14px;
+
+    &:not(:last-of-type) {
+      margin-right: 14px;
+    }
   }
 }
 
 .logo {
-  margin-right: 1em !important;
-  margin-top: 1em;
-  margin-bottom: 1em;
+  margin-right: 1.5rem !important;
 }
 
 .register-button {
   margin-left: auto !important;
-  margin-right: 0 !important;
   background: $red;
   color: #fff;
   text-decoration: none;
@@ -55,15 +70,60 @@ no-br {
   // -webkit-font-smoothing: antialiased;
   // @include sans;
   // font-weight: 600;
+  border-radius: 4px;
   letter-spacing: 0.02em;
   // line-height: 1;
-  padding: 1rem 2rem;
+  padding: 0.3rem 1rem;
   display: flex !important;
   align-items: center;
   align-self: stretch;
 
   &:active {
     color: #fff;
+  }
+}
+
+.button {
+  text-decoration: none;
+  background: $red;
+  color: #fff;
+  border-radius: 4px;
+  letter-spacing: 0.02em;
+  padding: 0.3rem 1rem;
+  line-height: 1.5;
+  display: table;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 2em;
+
+  &:active {
+    color: #fff;
+  }
+}
+
+.hero-section {
+  background-position: center top;
+  background-size: cover;
+  margin-top: 5rem;
+  margin-bottom: 5rem;
+  // min-height: 600px;
+  // padding-left: 1rem;
+  // padding-right: 1rem;
+  // display: flex;
+  // background-image: url('http://res.cloudinary.com/ars-gladiatoria-zagreb/image/upload/ar_16:9,b_rgb:ffffff,c_fill,g_north,q_auto:best,w_1920/v1531217053/Naslovna_v1');
+}
+
+.hero-section-inner {
+  // display: none;
+  // margin-top: auto;
+  // margin-bottom: auto;
+  // margin-left: auto;
+  // text-align: right;
+  // max-width: 600px;
+  text-align: center;
+
+  h1 {
+    margin: 0;
   }
 }
 
@@ -100,6 +160,14 @@ no-br {
   align-items: center;
 }
 
+.partner-grid {
+  display: grid;
+  grid-gap: 1.5rem 1rem;
+  grid-template-columns: repeat(3, 1fr);
+  margin-top: 2rem;
+  text-align: center;
+}
+
 .team-grid {
   display: grid;
   grid-gap: 1.5rem 1rem;
@@ -123,4 +191,17 @@ no-br {
     font-size: 0.8em;
     margin: 0;
   }
+}
+
+.news-article {
+  margin-top: 3em;
+}
+
+.news-article-date {
+  // @include sans;
+  // font-weight: 700;
+}
+
+.news-article-excerpt {
+  margin-top: 1em;
 }

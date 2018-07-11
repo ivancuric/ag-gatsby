@@ -2,14 +2,14 @@ import React from 'react';
 import Link from 'gatsby-link';
 
 const NewsArticle = node => (
-  <article>
-    <header>
+  <article className="news-article">
+    <header className="news-article-header">
       <h3>
         <Link to={node.fields.slug}>{node.frontmatter.title}</Link>
       </h3>
-      <small>{node.frontmatter.date}</small>
+      <small className="news-article-date">{node.frontmatter.date}</small>
     </header>
-    <p>{node.excerpt}</p>
+    <p className="news-article-excerpt">{node.excerpt}</p>
   </article>
 );
 

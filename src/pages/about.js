@@ -4,13 +4,21 @@ import Helmet from 'react-helmet';
 
 const title = 'About the tournament';
 
+const Image = ({ src, alt }) => {
+  const baseUrl =
+    'https://res.cloudinary.com/ars-gladiatoria-zagreb/image/upload';
+  const size = 500;
+  const params = ['c_fill', 'g_auto', 'f_auto', 'q_auto:best'].join(',');
+  return <img src={`${baseUrl}/${params},w_${size}/${src}`} alt={alt} />;
+};
+
 const AboutPage = () => (
   <section>
     <Helmet title={title} />
     <div className="container rt">
       <h1>{title}</h1>
 
-      <h2>Categories and opportunities</h2>
+      {/* <h2>Categories and opportunities</h2> */}
 
       <h3>Longsword</h3>
       <ul>
@@ -68,10 +76,14 @@ const AboutPage = () => (
         duration.
       </p>
 
+      <Image src="v1531332971/SC_zgrada.jpg" />
+      <Image src="v1531332971/SC_soba_2.jpg" />
+      <Image src="v1531332970/SC_soba_1.jpg" />
+
       <h4>Accommodation price per day</h4>
       <ul>
-        <li>Single-bed room - 170HRK (~23€)</li>
-        <li>Double-bed room - 140HRK (~19€) per bed</li>
+        <li>Single-bed room — 170HRK (~23€)</li>
+        <li>Double-bed room — 140HRK (~19€) per bed</li>
       </ul>
       <p>The price includes breakfast.</p>
       <p>

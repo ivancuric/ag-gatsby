@@ -4,17 +4,17 @@ html {
   background-color: #fff;
   color: #2f292b;
   overflow-y: scroll;
-  @include clamp(font-size, 18px, 20px);
+  @include clamp(font-size, 16px, 21px);
 }
 
 body {
   position: relative;
   font-variant-ligatures: common-ligatures;
-  font-feature-settings: 'liga', 'clig', 'kern';
+  font-feature-settings: 'liga', 'clig', 'kern', 'pnum';
   text-rendering: optimizeLegibility;
   padding-bottom: 4rem;
-  line-height: 1.5;
-  @include serif;
+  line-height: 1.55;
+  @include lora;
 }
 
 a {
@@ -23,16 +23,6 @@ a {
   &:active {
     color: $red2;
   }
-}
-
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  line-height: 1.15;
-  @include sans;
 }
 
 ::placeholder {

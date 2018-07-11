@@ -18,8 +18,8 @@ const RegisterPage = () => (
 
       <h2>Accommodation price per day</h2>
       <ul>
-        <li>Single-bed room - 170HRK (~23€)</li>
-        <li>Double-bed room - 140HRK (~19€) per bed</li>
+        <li>Single-bed room — 170HRK (~23€)</li>
+        <li>Double-bed room — 140HRK (~19€) per bed</li>
       </ul>
       <p>The price includes breakfast.</p>
       <p>
