@@ -6,7 +6,6 @@ const BlogPost = props => {
   const post = props.data.markdownRemark;
   const title = post.frontmatter.title;
   const content = post.html;
-  const description = post.frontmatter.description;
 
   return (
     <section>
@@ -14,10 +13,7 @@ const BlogPost = props => {
       <div className="container rt">
         <header>
           <h1>{title}</h1>
-          <div>
-            {description && <p>{description}</p>}
-            <small>{post.frontmatter.date}</small>
-          </div>
+          <small>{post.frontmatter.date}</small>
         </header>
         <div>{HTMLParser(content)}</div>
       </div>
@@ -35,7 +31,6 @@ export const pageQuery = graphql`
       frontmatter {
         date(formatString: "DD MMMM YYYY", locale: "en")
         title
-        description
       }
     }
   }

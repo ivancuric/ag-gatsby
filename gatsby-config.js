@@ -11,7 +11,7 @@ module.exports = {
       resolve: 'gatsby-plugin-web-font-loader',
       options: {
         google: {
-          families: ['Lora:400,700', 'IBM Plex Serif:400,500,600,700'],
+          families: ['Lora:400,700:italic', 'IBM Plex Serif:400,500,600,700'],
         },
       },
     },
