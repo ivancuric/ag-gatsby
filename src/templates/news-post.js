@@ -12,11 +12,13 @@ const BlogPost = props => {
     <section>
       <Helmet title={`${title} | Blog`} />
       <div className="container rt">
-        <h1>{title}</h1>
-        <div>
-          <p>{description}</p>
-          <div>{post.frontmatter.date}</div>
-        </div>
+        <header>
+          <h1>{title}</h1>
+          <div>
+            <p>{description}</p>
+            <small>{post.frontmatter.date}</small>
+          </div>
+        </header>
         <div>{HTMLParser(content)}</div>
       </div>
     </section>
