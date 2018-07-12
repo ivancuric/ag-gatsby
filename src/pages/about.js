@@ -23,7 +23,6 @@ const AboutPage = () => (
       <h3>Longsword</h3>
       <ul>
         <li>Open tournament for both men and women</li>
-        <li>Longsword category</li>
         <li>Up to 36 participants</li>
       </ul>
 
