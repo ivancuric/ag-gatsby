@@ -49,11 +49,11 @@ const AboutPage = () => (
       <h3>Venue location</h3>
 
       <p>
-        The venue will be held in “Boćarski dom Zrinjevac” sports hall. The hall
+        The venue will be held in “Boćarski dom Zrinjevac” sports hall. The hall
         itself is located near the Sava river and is surrounded by a park and
         has several grocery stores nearby. The location is easily accessible by
         tram and is only 15 minutes walking distance from student center
-        “Stjepan Radić” where accommodations are arranged.
+        “Stjepan Radić” where accommodations are arranged.
       </p>
       <p>
         The main part of the venue — the tournament, will be held in the main
@@ -68,8 +68,8 @@ const AboutPage = () => (
 
       <h3>Accomodations</h3>
       <p>
-        Accommodations have been organized in the “Stjepan Radić” student
-        center. Single and twin bed rooms are available. The “Stjepan Radić”
+        Accommodations have been organized in the “Stjepan Radić” student
+        center. Single and twin bed rooms are available. The “Stjepan Radić”
         student center is accessible by public transport. It also has a
         cafeteria that will be open throughout the entirety of the events
         duration.

@@ -12,7 +12,8 @@ module.exports = {
       options: {
         google: {
           families: [
-            'Lora:bold,bolditalic',
+            'Lora:bolditalic',
+            'Lora:bold',
             'Lora:italic',
             'Lora',
             'IBM Plex Serif:400,500,600,700',
