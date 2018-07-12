@@ -7,19 +7,19 @@ module.exports = {
     'gatsby-plugin-react-next',
     'gatsby-plugin-react-helmet',
     `gatsby-plugin-sass`,
-    {
-      resolve: 'gatsby-plugin-web-font-loader',
-      options: {
-        google: {
-          families: [
-            'Lora:bold,bolditalic',
-            'Lora:italic',
-            'Lora',
-            'IBM Plex Serif:400,500,600,700',
-          ],
-        },
-      },
-    },
+    // {
+    //   resolve: 'gatsby-plugin-web-font-loader',
+    //   options: {
+    //     google: {
+    //       families: [
+    //         'Lora:bold,bolditalic',
+    //         'Lora:italic',
+    //         'Lora',
+    //         'IBM Plex Serif:400,500,600,700',
+    //       ],
+    //     },
+    //   },
+    // },
     {
       resolve: 'gatsby-source-filesystem',
       options: {
