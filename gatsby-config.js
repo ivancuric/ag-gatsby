@@ -7,15 +7,19 @@ module.exports = {
     'gatsby-plugin-react-next',
     'gatsby-plugin-react-helmet',
     `gatsby-plugin-sass`,
-    // {
-    //   resolve: `gatsby-plugin-nprogress`,
-    //   // options: {
-    //   //   // Setting a color is optional.
-    //   //   // color: `#a12211`,
-    //   //   // Disable the loading spinner.
-    //   //   // showSpinner: false,
-    //   // },
-    // },
+    {
+      resolve: 'gatsby-plugin-web-font-loader',
+      options: {
+        google: {
+          families: [
+            'Lora:bold,bolditalic',
+            'Lora:italic',
+            'Lora',
+            'IBM Plex Serif:400,500,600,700',
+          ],
+        },
+      },
+    },
     {
       resolve: 'gatsby-source-filesystem',
       options: {
