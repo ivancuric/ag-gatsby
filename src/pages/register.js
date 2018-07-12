@@ -29,7 +29,7 @@ const RegisterPage = () => (
 
       <h2>Dinner</h2>
       <p>
-        Celebratory dinner will be held on the evening of 25th of august. The
+        The celebratory dinner will be held on the evening of 25th of August. The
         price is 10€.
       </p>
 
