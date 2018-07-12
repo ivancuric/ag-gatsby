@@ -50,7 +50,7 @@ const AboutPage = () => (
       </section>
 
       <section className="section-split">
-        <h2>Venue location</h2>
+        <h2>The Venue</h2>
 
         <p>
           The venue will be held in “Boćarski dom Zrinjevac” sports hall. The
@@ -59,6 +59,16 @@ const AboutPage = () => (
           accessible by tram and is only 15 minutes walking distance from
           student center “Stjepan Radić” where accommodations are arranged.
         </p>
+
+        <iframe
+          className="google-map"
+          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2782.07494178278!2d15.95940045111753!3d45.78972631958144!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4765d68faa14a207%3A0x69a9f837e9a7ece9!2sBo%C4%87arski+dom+Zrinjevac!5e0!3m2!1sen!2shr!4v1531431779470"
+          width="640"
+          height="450"
+          frameBorder="0"
+          allowFullScreen
+        />
+
         <p>
           The main part of the venue — the tournament, will be held in the main
           hall. All participants will have access to wardrobes, toilets, showers
