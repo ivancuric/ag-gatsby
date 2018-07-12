@@ -13,7 +13,7 @@ const HeroSection = () => (
             in Croatia held by Ars Gladiatoria Zagreb and Academia Artis
             Dimicatoriae
           </p>
-          <Link className="button" to="/register">Register</Link>
+          <Link className="button" to="/register">Register now!</Link>
         </div>
       </div>
     </div>
