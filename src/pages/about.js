@@ -45,7 +45,7 @@ const AboutPage = () => (
         </ul>
 
         <Link to="/rules" className="button">
-          Rules
+          Read the rules
         </Link>
       </section>
 

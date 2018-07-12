@@ -36,7 +36,6 @@ const RegisterPage = () => (
       <a
         className="button"
         href="https://docs.google.com/forms/d/e/1FAIpQLSfug_n_iJnQvO-JohELYfB3BdF-RLtHlvWfsiR-OukRf7PYIw/viewform"
-        target="_blank"
         rel="noopener noreferrer"
       >
         Register as a contestant
@@ -44,7 +43,6 @@ const RegisterPage = () => (
       <a
         className="button"
         href="https://docs.google.com/forms/d/e/1FAIpQLSdZQmIEuvoOwgLPVUAgnr61HQtIJp2xoclgXgk33OxQXpsCYg/viewform"
-        target="_blank"
         rel="noopener noreferrer"
       >
         Register as a non-contestant
