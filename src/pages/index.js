@@ -28,14 +28,14 @@ const indexPage = props => {
           <ul className="partner-grid">
             <li>
               <Image
-                src="v1531395145/logos/Theknightshop_logo_long"
-                alt="The Knight Shop International"
+                src="v1531429590/logos/Neyman_Fencing_logo_long"
+                alt="Neyman Fencing"
               />
             </li>
             <li>
               <Image
-                src="v1531429590/logos/Neyman_Fencing_logo_long"
-                alt="Neyman Fencing"
+                src="v1531395145/logos/Theknightshop_logo_long"
+                alt="The Knight Shop International"
               />
             </li>
             <li>
