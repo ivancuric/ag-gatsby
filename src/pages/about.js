@@ -4,10 +4,10 @@ import Helmet from 'react-helmet';
 
 const title = 'About the tournament';
 
-const Image = ({ src, alt }) => {
+const Image = ({ src, alt = '' }) => {
   const baseUrl =
     'https://res.cloudinary.com/ars-gladiatoria-zagreb/image/upload';
-  const size = 500;
+  const size = 640;
   const params = ['c_fill', 'g_auto', 'f_auto', 'q_auto:best'].join(',');
   return <img src={`${baseUrl}/${params},w_${size}/${src}`} alt={alt} />;
 };
@@ -59,6 +59,7 @@ const AboutPage = () => (
           accessible by tram and is only 15 minutes walking distance from
           student center “Stjepan Radić” where accommodations are arranged.
         </p>
+        <Image src="v1531465706/Dvorana/bocarski-dom" />
 
         <iframe
           className="google-map"
@@ -74,6 +75,9 @@ const AboutPage = () => (
           hall. All participants will have access to wardrobes, toilets, showers
           and refreshments.
         </p>
+
+        <Image src="v1531465706/Dvorana/bocarski-dom-jogovi" />
+
         <p>
           The secondary part of the venue — sparring pits, will be held outside
           the sports hall. The sparring pits are small fighting areas where all

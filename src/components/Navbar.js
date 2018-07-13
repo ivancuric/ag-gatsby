@@ -1,7 +1,7 @@
 import React from 'react';
 import Link from 'gatsby-link';
 
-const Image = ({ src, alt }) => {
+const Image = ({ src, alt = '' }) => {
   const baseUrl =
     'https://res.cloudinary.com/ars-gladiatoria-zagreb/image/upload';
   const size = 200;
@@ -18,8 +18,11 @@ const Navbar = () => (
       <Link to="/about">About</Link>
       <Link to="/schedule">Schedule</Link>
       <Link to="/rules">Rules</Link>
+      <Link to="/gallery">Gallery</Link>
       <Link to="/team">Team</Link>
-      <Link className="register-button" to="/register">Register</Link>
+      <Link className="register-button" to="/register">
+        Register
+      </Link>
     </nav>
   </header>
 );

@@ -183,6 +183,18 @@ no-br {
   }
 }
 
+.image-gallery {
+  display: grid;
+  grid-gap: 1rem 1rem;
+  margin-top: 2rem;
+  text-align: center;
+  grid-template-columns: repeat(2, 1fr);
+
+  @include breakpoint(640px) {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
 .team-grid {
   display: grid;
   grid-gap: 1.5rem 1rem;
