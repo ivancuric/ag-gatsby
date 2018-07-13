@@ -1,0 +1,5 @@
+# Redirect domain aliases to primary domain
+https://necro2018.arsgladiatoria.hr/* https://www.arsgladiatoria.hr/:splat 301!
+
+# Optional: Redirect default Netlify subdomain to primary domain
+https://ag-gatsby.netlify.com/* https://www.arsgladiatoria.hr/:splat 301!
