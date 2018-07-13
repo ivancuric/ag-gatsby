@@ -5,9 +5,16 @@ import HeroSection from '../components/HeroSection';
 const Image = ({ src, alt }) => {
   const baseUrl =
     'https://res.cloudinary.com/ars-gladiatoria-zagreb/image/upload';
-  const size = 180;
-  const params = ['ar_1:1', 'b_rgb:ffffff', 'c_lpad', 'q_auto:best'].join(',');
-  return <img src={`${baseUrl}/${params},w_${size}/${src}`} alt={alt} />;
+  const w = 180;
+  const h = 150;
+  const params = [
+    'e_trim:10',
+    '/',
+    'b_rgb:ffffff',
+    'c_limit',
+    'q_auto:best',
+  ].join(',');
+  return <img src={`${baseUrl}/${params},w_${w},h_${h}/${src}`} alt={alt} />;
 };
 
 const indexPage = props => {

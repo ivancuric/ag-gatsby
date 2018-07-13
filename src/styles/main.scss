@@ -165,11 +165,17 @@ no-br {
 .partner-grid {
   display: grid;
   grid-gap: 0.5rem 1rem;
-  grid-template-columns: repeat(3, 1fr);
   margin-top: 2rem;
   text-align: center;
+  grid-template-columns: repeat(2, 1fr);
+
+  @include breakpoint(640px) {
+    grid-template-columns: repeat(3, 1fr);
+  }
 
   li {
+    display: flex;
+
     img {
       margin: auto;
       width: auto;
