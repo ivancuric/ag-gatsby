@@ -44,6 +44,11 @@ const TeamPage = () => {
             role="Assistant Floor Manager"
           />
           <TeamMember
+            img="v1531746279/team/Matija_Kurelja"
+            name="Matija Kurelja"
+            role="Sparring Team Manager"
+          />
+          <TeamMember
             img="v1531133782/team/Marko_Stuhec"
             name="Marko Štuhec"
             role="Referee"
@@ -68,7 +73,12 @@ const TeamPage = () => {
             name="Alen Lovrič"
             role="Referee"
           />
-          <TeamMember name="Lui Elle" role="Referee" />
+          <TeamMember
+            img="v1531133783/team/Hana_Cespic"
+            name="Hana Cešpić"
+            role="Judge"
+          />
+          <TeamMember name="Xavier George Claude Fabiani" role="Judge" />
         </div>
       </div>
     </section>
