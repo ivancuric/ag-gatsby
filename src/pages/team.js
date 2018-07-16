@@ -78,7 +78,7 @@ const TeamPage = () => {
             name="Hana Cešpić"
             role="Judge"
           />
-          <TeamMember name="Xavier George Claude Fabiani" role="Judge" />
+          <TeamMember name="Xavier George Claude Fabiani" role="Referee" />
         </div>
       </div>
     </section>
