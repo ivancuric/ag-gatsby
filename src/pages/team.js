@@ -54,11 +54,6 @@ const TeamPage = () => {
             role="Referee"
           />
           <TeamMember
-            img="v1531133785/team/Kristina_Manjkas_Stuhec"
-            name="Kristina Manjkas Štuhec"
-            role="Referee"
-          />
-          <TeamMember
             img="v1531133784/team/Vatroslav_Mileusnic"
             name="Vatroslav Mileusnić"
             role="Referee"
@@ -72,6 +67,11 @@ const TeamPage = () => {
             img="v1531133782/team/Alen_Lovric"
             name="Alen Lovrič"
             role="Referee"
+          />
+          <TeamMember
+            img="v1531133785/team/Kristina_Manjkas_Stuhec"
+            name="Kristina Manjkas Štuhec"
+            role="Judge"
           />
           <TeamMember
             img="v1531133783/team/Hana_Cespic"
