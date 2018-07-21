@@ -78,7 +78,11 @@ const TeamPage = () => {
             name="Hana Cepić"
             role="Judge"
           />
-          <TeamMember name="Xavier George Claude Fabiani" role="Referee" />
+          <TeamMember
+            img="v1531991234/team/Xavier_George_Claude_Fabiani"
+            name="Xavier George Claude Fabiani"
+            role="Referee"
+          />
         </div>
       </div>
     </section>

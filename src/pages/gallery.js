@@ -37,7 +37,6 @@ const images = [
   'v1531157646/tournament/Judges_1.jpg',
   'v1531157645/tournament/Judges_2.jpg',
   'v1531157648/tournament/Judges_3.jpg',
-  'v1531157646/tournament/Judges_4.jpg',
   'v1531157649/tournament/Judges_5.jpg',
 ];
 
