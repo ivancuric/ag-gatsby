@@ -115,10 +115,24 @@ no-br {
 }
 
 .hero-section {
-  background-position: center top;
-  background-size: cover;
-  margin-top: 5rem;
-  margin-bottom: 5rem;
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  position: relative;
+  // text-shadow: 0 0 20px rgba(#fff, 0.5);
+
+  &::before {
+    z-index: -1;
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    opacity: 0.5;
+    background-size: contain;
+    background-position: center;
+    background-image: url('https://res.cloudinary.com/ars-gladiatoria-zagreb/image/upload/c_scale,q_auto,w_900/v1531991339/NeCRo2018_Home_Page_01');
+  }
 }
 
 .hero-section-inner {
