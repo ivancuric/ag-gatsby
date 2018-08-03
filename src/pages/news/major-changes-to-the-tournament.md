@@ -39,6 +39,4 @@ Some other unforeseen logistical problems happened with the gym as well but will
 
 •	We kindly ask that you find accomodations by yourself
 
-
-
 The information provided on this site will be updated shortly!
