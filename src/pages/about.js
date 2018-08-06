@@ -23,14 +23,14 @@ const AboutPage = () => (
         <h2>Longsword</h2>
         <ul>
           <li>Open tournament for both men and women</li>
-          <li>Up to 36 participants</li>
+          <li>Up to 30 participants</li>
         </ul>
 
         <h2>One-handed swords</h2>
         <ul>
           <li>Open tournament for both men and women</li>
           <li>One-handed sword category includes sideswords and sabres</li>
-          <li>Up to 12 participants</li>
+          <li>Up to 10 participants</li>
         </ul>
 
         <h2>Sparring pits</h2>
@@ -83,26 +83,6 @@ const AboutPage = () => (
           the sports hall. The sparring pits are small fighting areas where all
           contestants will be able to spar when not competing in the main event.
         </p>
-
-        <h2>Accomodations</h2>
-        <p>
-          Accommodations have been organized in the “Stjepan Radić” student
-          center. Single and twin bed rooms are available. The “Stjepan Radić”
-          student center is accessible by public transport. It also has a
-          cafeteria that will be open throughout the entirety of the events
-          duration.
-        </p>
-
-        <Image src="v1531332971/SC_zgrada.jpg" />
-        <Image src="v1531332971/SC_soba_2.jpg" />
-        <Image src="v1531332970/SC_soba_1.jpg" />
-
-        <h4>Accommodation price per day</h4>
-        <ul>
-          <li>Single-bed room — 170HRK (~23€)</li>
-          <li>Double-bed room — 140HRK (~19€) per bed</li>
-        </ul>
-        <p>The price includes breakfast.</p>
         <p>
           All participants must pay their entrance fee and their total price for
           the accommodations in order to compete.
