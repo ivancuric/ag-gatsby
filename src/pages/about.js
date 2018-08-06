@@ -84,12 +84,6 @@ const AboutPage = () => (
           contestants will be able to spar when not competing in the main event.
         </p>
         <p>Lunch is included in the entrance fee for the venue.</p>
-        <p>
-          Please take notice that in order to compete in the venue all
-          participants must pay both the entrance fee and the accommodations
-          price for the entire stay during the initial sign up that will take
-          place before the tournament starts.
-        </p>
       </section>
     </div>
   </section>
