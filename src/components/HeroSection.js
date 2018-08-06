@@ -7,7 +7,7 @@ const HeroSection = () => (
       <div className="container">
         <div className="rt">
           <h1 className="hero-title">Neyman Fencing Tournament 2018</h1>
-          <p className="hero-date">25th and 26th of August 2018</p>
+          <p className="hero-date">25th of August 2018</p>
           <p>
             First international longsword and one-handed sword open tournament
             in Croatia held by Ars Gladiatoria Zagreb and Academia Artis
