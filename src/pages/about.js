@@ -83,10 +83,6 @@ const AboutPage = () => (
           the sports hall. The sparring pits are small fighting areas where all
           contestants will be able to spar when not competing in the main event.
         </p>
-        <p>
-          All participants must pay their entrance fee and their total price for
-          the accommodations in order to compete.
-        </p>
         <p>Lunch is included in the entrance fee for the venue.</p>
         <p>
           Please take notice that in order to compete in the venue all
