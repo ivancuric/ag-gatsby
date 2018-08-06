@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: 'Neyman Fencing Tournament 2018',
-    description: `First international longsword and one-handed sword open tournament in Croatia held by Ars Gladiatoria Zagreb and Academia Artis Dimicatoriae — 25th and 26th of August 2018`,
+    description: `First international longsword and one-handed sword open tournament in Croatia held by Ars Gladiatoria Zagreb and Academia Artis Dimicatoriae — August 25th 2018`,
   },
   plugins: [
     'gatsby-plugin-react-next',

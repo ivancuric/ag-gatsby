@@ -6,7 +6,7 @@ title: Rules
 
 This document contains the rules and regulations for the HEMA tournament
 with longsword and one‑handed blades, called _Neyman Croatia 2018_
-(short form: _NeCro18_) that is scheduled for <no-br>August 26th 2018</no-br>
+(short form: _NeCro18_) that is scheduled for <no-br>August 25th 2018</no-br>
 in Zagreb, Croatia, in the following text referred to as the Tournament.
 
 The Tournament is organized and hosted by _Ars Gladiatoria_ and

@@ -56,8 +56,7 @@ const AboutPage = () => (
           The venue will be held in “Boćarski dom Zrinjevac” sports hall. The
           hall itself is located near the Sava river and is surrounded by a park
           and has several grocery stores nearby. The location is easily
-          accessible by tram and is only 15 minutes walking distance from
-          student center “Stjepan Radić” where accommodations are arranged.
+          accessible by tram and car.
         </p>
         <Image src="v1531465706/Dvorana/bocarski-dom" />
 
